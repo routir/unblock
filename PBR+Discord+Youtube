@@ -1,3 +1,4 @@
+# ОСНОВНОЙ https://github.com/shvchk/unblock-net/blob/main/lists/ru-blocked.list
 10minutemail.com
 1337x.to
 15min.lt
@@ -164,7 +165,6 @@ forum.voynaplemyon.com
 fr.de
 gagadget.com
 gallery.zetalliance.org
-ggpht.com
 gidonline.eu
 gitnux.com
 glavred.info
@@ -616,9 +616,8 @@ zohomail.com
 zoloto.city
 zona.media
 zyro.com
-cdn.discordapp.com
+# DISCORD https://github.com/GhostRooter0953/discord-voice-ips
 dis.gd
-discord-attachments-uploads-prd.storage.googleapis.com
 discord-activities.com
 discord.co
 discord.com
@@ -633,14 +632,16 @@ discord.store
 discord.tools
 discordactivities.com
 discordapp.com
+discordapp.io
 discordapp.net
-stable.dl2.discordapp.net
+discordapp.org
 discordcdn.com
 discordmerch.com
 discordpartygames.com
 discordsays.com
 discordsez.com
 discordstatus.com
+# YOUTUBE
 googlevideo.com
 youtube.com
 youtu.be
@@ -652,12 +653,17 @@ googleusercontent.com
 googleapis.com
 gstatic.com
 nhacmp3youtube.com
+# PORN
 chaturbate.com
+# 3D Modeling
 f95-zone.to
 f95zone.to
 f95zone.com
+# SSClash
 zerolab.net
+# HDRezka картинки резки
 hdrezka.ac
+# Filmix
 filmix.fm
 filmix.day
 filmix.la
