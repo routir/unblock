@@ -4,7 +4,7 @@
 
 Основано на репозиториях:
 
-https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst
+https://github.com/itdoginfo/allow-domains
 
 https://github.com/shvchk/unblock-net/blob/main/lists/ru-blocked.list
 
