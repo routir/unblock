@@ -1,12 +1,12 @@
-# на базе https://raw.githubusercontent.com/itdoginfo/allow-domains/main/Russia/inside-raw.lst
-#.ua
 +.10minutemail.com
 +.1337x.to
 +.24.kg
 +.4freerussia.org
 +.4pda.ru
-#4pda.to
 +.4pna.com
++.7dniv.rv.ua
++.7tv.app
++.7tv.io
 +.9tv.co.il
 +.ab.chatgpt.com
 +.abercrombie.com
@@ -14,6 +14,7 @@
 +.abs-0.twimg.com
 +.abs-zero.twimg.com
 +.abs.twimg.com
++.academy.terrasoft.ua
 +.account-api.protonmail.com
 +.account.jetbrains.com
 +.account.protonmail.com
@@ -70,6 +71,7 @@
 +.archiveofourown.org
 +.artifacts.elastic.co
 +.atlassian.com
++.atn.ua
 +.att.com
 +.attachments.f95zone.to
 +.auth.grazie.ai
@@ -122,6 +124,7 @@
 +.cdn.nba.com
 +.cdn.oaistatic.com
 +.cdn.web-platform.io
++.cdnbunny.org
 +.cdninstagram.com
 +.cdw.com
 +.censortracker.org
@@ -160,6 +163,7 @@
 +.cpu-monkey.com
 +.credly.com
 +.crunchyroll.com
++.csskor.ill.in.ua
 +.cursorinfo.co.il
 +.cyberghostvpn.com
 +.czx.to
@@ -273,6 +277,7 @@
 +.forklog.com
 +.formula1.com
 +.fortanga.org
++.forum.neformat.com.ua
 +.forum.ru-board.com
 +.forum.voynaplemyon.com
 +.freedomletters.org
@@ -340,6 +345,8 @@
 +.hostinger.com
 +.hotels.com
 +.hqporner.com
++.hromadske.ua
++.hyperhost.ua
 +.i-fallback.instagram.com
 +.i.instagram.com
 +.i.sakh.com
@@ -368,6 +375,7 @@
 +.intel.com
 +.intel.de
 +.interactivebrokers.co.uk
++.interfax.com.ua
 +.internalfb.com
 +.intuit.com
 +.intuitibits.com
@@ -381,6 +389,7 @@
 +.itsmycity.ru
 +.jamf.com
 +.jetbrains.com
++.jskor.ill.in.ua
 +.kaktus.media
 +.kamatera.com
 +.kasparov.ru
@@ -398,6 +407,7 @@
 +.kinozal.tv
 +.knews.kg
 +.kolsar.org
++.kor.ill.in.ua
 +.korrespondent.net
 +.kovcheg.live
 +.kpapp.link
@@ -474,6 +484,7 @@
 +.nasvsehtoshnit.ru
 +.navalny.com
 +.nba.com
++.neformat.com.ua
 +.netflix.com
 +.netlify.com
 +.networksolutions.com
@@ -490,6 +501,7 @@
 +.nike.com
 +.nitropdf.com
 +.nnmclub.to
++.nnmstatic.win
 +.nordvpn.com
 +.notion-static.com
 +.notion.com
@@ -512,6 +524,7 @@
 +.oi.legal
 +.omv-extras.org
 +.onlineradiobox.com
++.onlinesim.io
 +.onlinesim.ru
 +.onshape.com
 +.open.selezen.org
@@ -665,6 +678,7 @@
 +.semnasem.org
 +.sentry.io
 +.sentry.servarr.com
++.sephora.com
 +.serpstat.com
 +.sfdcopens.com
 +.shikimori.me
@@ -742,6 +756,7 @@
 +.tayga.info
 +.tcr9i.chat.openai.com
 +.te-st.org
++.teamviewer.com
 +.telegraf.by
 +.telegraf.news
 +.telemetr.io
@@ -959,35 +974,20 @@
 +.znanija.com
 +.zohomail.com
 +.zona.media
-# PORN
 +.chaturbate.com
-# 3D Modeling
++.phncdn.com
 +.f95-zone.to
 +.f95zone.to
 +.f95zone.com
 +.render-state.to
-# SSClash
 +.zerolab.net
-# Filmix
 +.filmix.day
 +.filmix.la
-# Proton
-proton.me
-# YOUTUBE
-#+.googlevideo.com
-#+.youtube.com
-#+.youtu.be
-#+.yt.be
-#+.ytimg.com
-#+.ytimg.l.google.com
-#+.ggpht.com
-#+.googleusercontent.com
-#+.googleapis.com
-#+.gstatic.com
-#+.nhacmp3youtube.com
-#+.youtube-nocookie.com
-#+.youtubekids.com
-#+.wide-youtube.l.google.com
-#+.youtubei.googleapis.com
-#+.youtubeembeddedplayer.googleapis.com
-#+.youtube-ui.l.google.com
++.megapeer.vip
++.kinopub.me
++.prx-cogent.ukrtelcdn.net
++.prx2-cogent.ukrtelcdn.net
++.prx3-cogent.ukrtelcdn.net
++.prx4-cogent.ukrtelcdn.net
++.piratbit.top
++.proton.me
