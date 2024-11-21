@@ -10,6 +10,8 @@ AntiblockClean, ClashClean дополнительно почищены от ду
 
 https://github.com/itdoginfo/allow-domains
 
-https://github.com/shvchk/unblock-net/blob/main/lists/ru-blocked.list
+https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash
 
 https://github.com/GhostRooter0953/discord-voice-ips
+
+https://github.com/shvchk/unblock-net/blob/main/lists/ru-blocked.list
