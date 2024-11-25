@@ -14,6 +14,8 @@ Youtube - ОК
 
 AntiblockClean, ClashClean дополнительно почищены от дубликатов и новостного хлама.
 
+ZapretinfoClean очищен от казино и всякой мути, количество доменов уменьшилось с 250 до 87 тысяч.
+
 Основано на репозиториях:
 
 https://github.com/itdoginfo/allow-domains
@@ -25,3 +27,5 @@ https://github.com/Ground-Zerro/DomainMapper
 https://github.com/GhostRooter0953/discord-voice-ips
 
 https://github.com/shvchk/unblock-net/blob/main/lists/ru-blocked.list
+
+https://github.com/zapret-info/z-i
