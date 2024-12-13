@@ -8,7 +8,7 @@ Facebook - OK
 
 Instagram - ОК
 
-TikTok - OK
+TikTok - OK (может быть заблокирован,зависит от провайдера)
 
 X.COM(twitter) - OK
 
