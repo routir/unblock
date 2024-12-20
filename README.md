@@ -8,13 +8,13 @@ Facebook - OK
 
 Instagram - ОК
 
-TikTok - OK (может быть заблокирован,зависит от провайдера)
+TikTok - OK >>>может быть заблокирован-зависит от провайдера<<<
 
 X.COM(twitter) - OK
 
 VIBER - OK
 
-Youtube - ОК 
+Youtube - ОК >>>
 При возниковении следующих ошибок ролики обрываются на 59 секунде
 https://www.youtube.com/api/jnn/v1/GenerateIT 403 (Forbidden)
 
