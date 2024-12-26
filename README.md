@@ -42,6 +42,8 @@ https://github.com/itdoginfo/allow-domains
 
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash
 
+https://iplist.opencck.org/
+
 https://github.com/Ground-Zerro/DomainMapper
 
 https://github.com/GhostRooter0953/discord-voice-ips
