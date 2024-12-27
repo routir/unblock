@@ -265,17 +265,21 @@ tutanota.com
 #АЙТИ
 alphacoders.com
 bitcoin.org
-cdn.web-platform.io
 singlekey-id.com
 
-#GITHUB
+#API-CDN
+amazonaws.com
 api.github.com
 api.githubcopilot.com
+cdn.web-platform.io
 copilot-proxy.githubusercontent.com
 gitlab.io
+i.yting.com
 packages.gitlab.com
 proxy.individual.githubcopilot.com
 raw-data.gitlab.io
+s3-1.amazonaws.com
+static.licdn.com
 
 #СОФТ-ХАРД
 bosch-home.com
@@ -294,12 +298,9 @@ edge.microsoft.com
 edgeservices.bing.com
 news.google.com
 
-#ХРАНИЛИЩА
+#ОБЛАКА-ХРАНИЛИЩА
 fex.net
-i.yting.com
 quickconnect.to
-s3-1.amazonaws.com
-static.licdn.com
 ufile.io
 
 #РАБОТА-ОБУЧЕНИЕ
