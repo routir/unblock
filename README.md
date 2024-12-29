@@ -14,8 +14,8 @@ TikTok - OK >>>может быть заблокирован-зависит от 
 
 X.COM(twitter) - OK
 
-VIBER - заблокированы подсети(на хосте compute.amazonaws.com), в список TEST2 добавлено несколько CIDR, но далеко не все(работает на маленьких расстояниях между абонентами)
-Все подсети можно посмотреть здесь https://ip-ranges.amazonaws.com/geo-ip-feed.csv
+VIBER - заблокированы подсети(на хосте compute.amazonaws.com), в список TEST2 добавлено несколько CIDR, но далеко не все(работает на маленьких расстояниях между абонентами).
+Все диапазоны можно посмотреть здесь https://ip-ranges.amazonaws.com/geo-ip-feed.csv
 
 Youtube - ОК >>>
 При возниковении следующих ошибок ролики обрываются на 59 секунде
@@ -54,3 +54,5 @@ https://github.com/GhostRooter0953/discord-voice-ips
 https://github.com/shvchk/unblock-net/blob/main/lists/ru-blocked.list
 
 https://github.com/zapret-info/z-i
+
+https://ip-ranges.amazonaws.com/geo-ip-feed.csv
