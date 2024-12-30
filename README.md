@@ -38,7 +38,6 @@ https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create 403 (Forbid
 ------
 Список TEST2 отсортирован по категориям для Ruantiblock, в PBR не использовать - ломается структура
 
-ZapretinfoClean - спискок в формате ruantiblock, очищен от казино и всякой мути, количество доменов уменьшилось с 250 до 82 тысяч.
 
 Основано на репозиториях:
 
