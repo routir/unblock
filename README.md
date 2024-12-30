@@ -14,7 +14,8 @@ TikTok - OK >>>может быть заблокирован-зависит от 
 
 X.COM(twitter) - OK
 
-VIBER - заблокированы подсети(на хосте amazonaws.com), решения пока нет.
+VIBER - заблокированы подсети amazon, в папку services добавлены CIDR на Frankfurt
+
 Все диапазоны можно посмотреть здесь https://ip-ranges.amazonaws.com/geo-ip-feed.csv
 
 Youtube - ОК >>>
