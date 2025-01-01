@@ -18,6 +18,12 @@ VIBER - заблокированы подсети amazon, в папку services
 
 Все диапазоны можно посмотреть здесь https://ip-ranges.amazonaws.com/geo-ip-feed.csv
 
+P.S. на данный момент Viber использует подсети на Google Cloud
+35.207.0.0/18
+35.207.64.0/18
+35.207.128.0/18
+35.207.192.0/18
+
 Youtube - ОК >>>
 При возниковении следующих ошибок ролики обрываются на 59 секунде
 https://www.youtube.com/api/jnn/v1/GenerateIT 403 (Forbidden)
