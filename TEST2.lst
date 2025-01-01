@@ -406,6 +406,12 @@ viber.co
 viber.com
 viber.me
 
+#VIBER-MEDIA-VOICE
+35.207.0.0/18
+35.207.64.0/18
+35.207.128.0/18
+35.207.192.0/18
+
 #YOUTUBE
 youtube.com
 ytimg.com
