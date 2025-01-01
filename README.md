@@ -18,7 +18,7 @@ VIBER - заблокированы подсети amazon, в папку services
 
 Все диапазоны можно посмотреть здесь https://ip-ranges.amazonaws.com/geo-ip-feed.csv
 
-P.S. на данный момент Viber использует подсети на Google Cloud:
+P.S. на данный момент Viber использует подсети Google Cloud:
 
 35.207.0.0/18
 
