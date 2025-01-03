@@ -14,7 +14,7 @@
 
 - X.COM(twitter) - OK
 
-- VIBER - заблокированы подсети amazon>>>
+- VIBER - заблокированы viber.com(основные медиа), rakuten.com(звонки), rakuten-static.com и подсети amazon>>>
 
 В папку services добавлены CIDR на Frankfurt(основной пул Европы), которые желательно пускать через другой прокси.
 
