@@ -54,6 +54,8 @@ https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create 403 (Forbid
 
 https://github.com/itdoginfo/allow-domains
 
+https://github.com/dartraiden/no-russia-hosts
+
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash
 
 https://iplist.opencck.org/
