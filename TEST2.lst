@@ -282,7 +282,7 @@ i.yting.com
 packages.gitlab.com
 proxy.individual.githubcopilot.com
 raw-data.gitlab.io
-s3-1.amazonaws.com
+#s3-1.amazonaws.com
 static.licdn.com
 
 #СОФТ-ХАРД
