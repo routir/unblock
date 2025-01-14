@@ -60,6 +60,8 @@ https://github.com/dartraiden/no-russia-hosts
 
 https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Clash
 
+https://github.com/v2fly/domain-list-community/tree/master/data
+
 https://iplist.opencck.org/
 
 https://github.com/Ground-Zerro/DomainMapper
