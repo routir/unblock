@@ -1,3 +1,16 @@
+#API-CDN
+api.github.com
+api.githubcopilot.com
+cdn.web-platform.io
+copilot-proxy.githubusercontent.com
+gitlab.io
+i.yting.com
+packages.gitlab.com
+proxy.individual.githubcopilot.com
+raw-data.gitlab.io
+#s3-1.amazonaws.com
+static.licdn.com
+
 #КИНОТЕАТРЫ-ТОРРЕНТЫ
 1337x.to
 bitru.org
@@ -265,19 +278,6 @@ api.protonmail.ch
 mail-api.proton.me
 mailfence.com
 tutanota.com
-
-#API-CDN
-api.github.com
-api.githubcopilot.com
-cdn.web-platform.io
-copilot-proxy.githubusercontent.com
-gitlab.io
-i.yting.com
-packages.gitlab.com
-proxy.individual.githubcopilot.com
-raw-data.gitlab.io
-#s3-1.amazonaws.com
-static.licdn.com
 
 #СОФТ-ХАРД
 banana-pi.org
