@@ -8,7 +8,6 @@ i.yting.com
 packages.gitlab.com
 proxy.individual.githubcopilot.com
 raw-data.gitlab.io
-#s3-1.amazonaws.com
 static.licdn.com
 
 #КИНОТЕАТРЫ-ТОРРЕНТЫ
@@ -349,12 +348,6 @@ ig.me
 instagr.am
 instagram.com
 threads.net
-
-#NETFLIX
-netflix.com
-nflxext.com
-nflximg.net
-#nflxvideo.net
 
 #TWITTER
 ads-twitter.com
