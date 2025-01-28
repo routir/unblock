@@ -16,9 +16,9 @@
 
 - VIBER - заблокированы viber.com(основные медиа), rakuten.com(звонки) и подсети amazon>>>
 
-В папку services добавлен список viber-ip-de.lst с проверенными CIDR, которые желательно пускать через другой прокси(не WARP).
+В папку services добавлен список [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) с проверенными CIDR, которые желательно пускать через другой прокси(не WARP).
 
-При старте Вайбера запрашиваются айпи с домена s3.amazonaws.com (заблокирован у отдельных провайдеров, viber-ip-de.lst уже содержит необходимые подсети)
+При старте Вайбера запрашиваются айпи с домена s3.amazonaws.com (заблокирован у отдельных провайдеров, [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) уже содержит необходимые подсети)
 
 При звонках вызывается большой американский пул, поэтому 18.184.0.0/13, 18.192.0.0/13 для большего охвата.
 
