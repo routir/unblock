@@ -74,4 +74,6 @@ https://github.com/shvchk/unblock-net/blob/main/lists/ru-blocked.list
 
 https://github.com/zapret-info/z-i
 
+https://core.telegram.org/resources/cidr.txt
+
 https://ip-ranges.amazonaws.com/geo-ip-feed.csv
