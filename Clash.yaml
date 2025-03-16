@@ -18,8 +18,6 @@ payload:
   - DOMAIN-SUFFIX,amnezia.org
   - DOMAIN-SUFFIX,anilibria.tv
   - DOMAIN-SUFFIX,antizapret.prostovpn.org
-  - DOMAIN-SUFFIX,api.github.com
-  - DOMAIN-SUFFIX,api.githubcopilot.com
   - DOMAIN-SUFFIX,api.protonmail.ch
   - DOMAIN-SUFFIX,attachments.f95zone.to
   - DOMAIN-SUFFIX,babook.org
@@ -49,7 +47,6 @@ payload:
   - DOMAIN-SUFFIX,cloudex.cc
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,coldfilm.xyz
-  - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com
   - DOMAIN-SUFFIX,coub.com
   - DOMAIN-SUFFIX,cpu-monkey.com
   - DOMAIN-SUFFIX,cub.red
@@ -119,7 +116,6 @@ payload:
   - DOMAIN-SUFFIX,fuqqt.com
   - DOMAIN-SUFFIX,gamesrepack.com
   - DOMAIN-SUFFIX,gelbooru.com
-  - DOMAIN-SUFFIX,gitlab.io
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,happymod.com
   - DOMAIN-SUFFIX,hd.zetfix.online
@@ -196,7 +192,6 @@ payload:
   - DOMAIN-SUFFIX,onlinesim.ru
   - DOMAIN-SUFFIX,open.selezen.org
   - DOMAIN-SUFFIX,ottclub.cc
-  - DOMAIN-SUFFIX,packages.gitlab.com
   - DOMAIN-SUFFIX,pb.wtf
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pexels.com
@@ -211,7 +206,6 @@ payload:
   - DOMAIN-SUFFIX,protonmail.com
   - DOMAIN-SUFFIX,protonvpn.com
   - DOMAIN-SUFFIX,proxy.flibusta.net
-  - DOMAIN-SUFFIX,proxy.individual.githubcopilot.com
   - DOMAIN-SUFFIX,pscp.tv
   - DOMAIN-SUFFIX,psiphon.ca
   - DOMAIN-SUFFIX,pussyspace.com
