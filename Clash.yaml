@@ -6,7 +6,7 @@
 # DOMAIN-SUFFIX: 338
 # IP-CIDR: 0
 # IP-CIDR6: 0
-# TOTAL: 344
+# TOTAL: 338
 payload:
   - DOMAIN-SUFFIX,1cent.tv
   - DOMAIN-SUFFIX,10minutemail.com
