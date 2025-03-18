@@ -1,12 +1,3 @@
-# NAME: Clash
-# AUTHOR: routir
-# REPO: https://github.com/routir/unblock
-# UPDATED: 2025-03-17 0:10:51
-# DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 338
-# IP-CIDR: 0
-# IP-CIDR6: 0
-# TOTAL: 338
 payload:
   - DOMAIN-SUFFIX,1cent.tv
   - DOMAIN-SUFFIX,10minutemail.com
