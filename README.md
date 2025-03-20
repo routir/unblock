@@ -13,22 +13,9 @@
 
 - X.COM(twitter) - OK
 
-- VIBER - заблокированы viber.com(основные медиа), rakuten.com(звонки) и подсети amazon>>>
-
-В папку services добавлен список [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) с проверенными CIDR, которые желательно пускать через другой прокси(не WARP).
-
-При старте Вайбера запрашиваются айпи с домена s3.amazonaws.com (заблокирован у отдельных провайдеров, [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) уже содержит необходимые подсети)
-
-При звонках вызывается большой американский пул, поэтому 18.184.0.0/13, 18.192.0.0/13 для большего охвата.
-
-На данный момент Viber для медиаконтента использует подсети Google Cloud: 34.0.0.0/15, 35.207.0.0/16.
-
-Виндовый вайбер для авторизации по QR коду запрашивает 34.192.0.0/12, 52.0.0.0/15.
-
-Все диапазоны Amazon можно посмотреть здесь https://ip-ranges.amazonaws.com/geo-ip-feed.csv
-
 - Youtube - ОК >>>
 
+<details><summary>YOUTUBE</summary>
 При возниковении следующих ошибок ролики обрываются на 59 секунде
 
 https://www.youtube.com/api/jnn/v1/GenerateIT 403 (Forbidden)
@@ -48,6 +35,25 @@ https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/Create 403 (Forbid
 И последний вариант - установить расширение для смены User Agent и поменять на мобильный агент.
 
 P.S. в начале 2025 YouTube начал показывать многочасовую рекламу(для борьбы с резками) и проблема 59 секунды исчезла.
+</details>
+
+<details><summary>VIBER</summary>
+заблокированы viber.com(основные медиа), rakuten.com(звонки) и подсети amazon.
+
+В папку services добавлен список [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) с проверенными CIDR, которые желательно пускать через другой прокси(не WARP).
+
+При старте Вайбера запрашиваются айпи с домена s3.amazonaws.com (заблокирован у отдельных провайдеров, [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) уже содержит необходимые подсети)
+
+При звонках вызывается большой американский пул, поэтому 18.184.0.0/13, 18.192.0.0/13 для большего охвата.
+
+На данный момент Viber для медиаконтента использует подсети Google Cloud: 34.0.0.0/15, 35.207.0.0/16.
+
+Виндовый вайбер для авторизации по QR коду запрашивает 34.192.0.0/12, 52.0.0.0/15.
+
+Все диапазоны Amazon можно посмотреть здесь https://ip-ranges.amazonaws.com/geo-ip-feed.csv
+</details>
+
+
 
 ---
 Списки Podkop, Ruantiblock отсортированы по категориям для лучшего понимания. 
