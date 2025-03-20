@@ -204,7 +204,6 @@ payload:
   - DOMAIN-SUFFIX,quora.com
   - DOMAIN-SUFFIX,quoracdn.net
   - DOMAIN-SUFFIX,quickconnect.to
-  - DOMAIN-SUFFIX,rakuten.com
   - DOMAIN-SUFFIX,reddxxx.com
   - DOMAIN-SUFFIX,redgifs.com
   - DOMAIN-SUFFIX,redshieldvpn.com
@@ -299,7 +298,6 @@ payload:
   - DOMAIN-SUFFIX,ukrtelcdn.net
   - DOMAIN-SUFFIX,underver.se
   - DOMAIN-SUFFIX,unfiltered.adguard-dns.com
-  - DOMAIN-SUFFIX,viber.com
   - DOMAIN-SUFFIX,vine.co
   - DOMAIN-SUFFIX,vipdrive.net
   - DOMAIN-SUFFIX,vkino.lafa.site
