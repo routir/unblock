@@ -37,6 +37,7 @@ payload:
   - DOMAIN-SUFFIX,clashofclans.com
   - DOMAIN-SUFFIX,cloudex.cc
   - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,coldfilm.xyz
   - DOMAIN-SUFFIX,coub.com
   - DOMAIN-SUFFIX,cpu-monkey.com
