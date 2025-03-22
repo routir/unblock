@@ -1,53 +1,274 @@
 payload:
-  - DOMAIN-SUFFIX,3d-load.net
-  - DOMAIN-SUFFIX,1cent.tv
-  - DOMAIN-SUFFIX,10minutemail.com
+  #КИНОТЕАТРЫ-ТОРРЕНТЫ
   - DOMAIN-SUFFIX,1337x.to
-  - DOMAIN-SUFFIX,abook-club.ru
-  - DOMAIN-SUFFIX,adguard.com
-  - DOMAIN-SUFFIX,ads-twitter.com
-  - DOMAIN-SUFFIX,amdm.ru
-  - DOMAIN-SUFFIX,amnezia.org
-  - DOMAIN-SUFFIX,anilibria.tv
-  - DOMAIN-SUFFIX,antizapret.prostovpn.org
-  - DOMAIN-SUFFIX,api.protonmail.ch
-  - DOMAIN-SUFFIX,attachments.f95zone.to
-  - DOMAIN-SUFFIX,babook.org
-  - DOMAIN-SUFFIX,banana-pi.org
-  - DOMAIN-SUFFIX,bitcoin.org
   - DOMAIN-SUFFIX,bitru.org
-  - DOMAIN-SUFFIX,blinkshot.io
-  - DOMAIN-SUFFIX,booktracker.org
-  - DOMAIN-SUFFIX,boosteroid.com
-  - DOMAIN-SUFFIX,bosch-home.com
   - DOMAIN-SUFFIX,bt.t-ru.org
   - DOMAIN-SUFFIX,bt2.t-ru.org
   - DOMAIN-SUFFIX,bt3.t-ru.org
   - DOMAIN-SUFFIX,bt4.t-ru.org
   - DOMAIN-SUFFIX,btdig.com
+  - DOMAIN-SUFFIX,cdnbunny.org
+  - DOMAIN-SUFFIX,cloudex.cc
+  - DOMAIN-SUFFIX,coldfilm.xyz
+  - DOMAIN-SUFFIX,cub.red
+  - DOMAIN-SUFFIX,czx.to
+  - DOMAIN-SUFFIX,dorama.live
+  - DOMAIN-SUFFIX,doramalive.ru
+  - DOMAIN-SUFFIX,doramy.club
+  - DOMAIN-SUFFIX,fast-torrent.club
+  - DOMAIN-SUFFIX,filmitorrent.net
+  - DOMAIN-SUFFIX,filmix.ac
+  - DOMAIN-SUFFIX,filmix.biz
+  - DOMAIN-SUFFIX,filmix.day
+  - DOMAIN-SUFFIX,filmix.fm
+  - DOMAIN-SUFFIX,filmix.la
+  - DOMAIN-SUFFIX,filmix.my
+  - DOMAIN-SUFFIX,filmix.tech
+  - DOMAIN-SUFFIX,hdrezka.ac
+  - DOMAIN-SUFFIX,hdrezka.ag
+  - DOMAIN-SUFFIX,hdrezka.me
+  - DOMAIN-SUFFIX,kino.pub
+  - DOMAIN-SUFFIX,kinobase.org
+  - DOMAIN-SUFFIX,kinogo.bot
+  - DOMAIN-SUFFIX,kinogo.ec
+  - DOMAIN-SUFFIX,kinogo.inc
+  - DOMAIN-SUFFIX,kinogo.online
+  - DOMAIN-SUFFIX,kinogo.prof
+  - DOMAIN-SUFFIX,kinokong.bz
+  - DOMAIN-SUFFIX,kinokong.day
+  - DOMAIN-SUFFIX,kinokopilka.pro
+  - DOMAIN-SUFFIX,kinopub.me
+  - DOMAIN-SUFFIX,kinovod.net
+  - DOMAIN-SUFFIX,kinozal.guru
+  - DOMAIN-SUFFIX,kinozal.me
+  - DOMAIN-SUFFIX,kinozal.tv
+  - DOMAIN-SUFFIX,kpapp.link
+  - DOMAIN-SUFFIX,lostfilm.run
+  - DOMAIN-SUFFIX,lostfilm.tv
+  - DOMAIN-SUFFIX,lostfilm.win
+  - DOMAIN-SUFFIX,lostfilmtv2.site
+  - DOMAIN-SUFFIX,lostfilmtv5.site
+  - DOMAIN-SUFFIX,megapeer.ru
+  - DOMAIN-SUFFIX,megapeer.vip
+  - DOMAIN-SUFFIX,metacritic.com
+  - DOMAIN-SUFFIX,mydoramy.club
+  - DOMAIN-SUFFIX,nnmclub.to
+  - DOMAIN-SUFFIX,nnmstatic.win
+  - DOMAIN-SUFFIX,open.selezen.org
+  - DOMAIN-SUFFIX,pb.wtf
+  - DOMAIN-SUFFIX,piratbit.top
+  - DOMAIN-SUFFIX,rezka.ag
+  - DOMAIN-SUFFIX,rezka.my
+  - DOMAIN-SUFFIX,rezkify.com
+  - DOMAIN-SUFFIX,riperam.org
+  - DOMAIN-SUFFIX,rustorka.com
+  - DOMAIN-SUFFIX,rutor.info
+  - DOMAIN-SUFFIX,rutor.is
+  - DOMAIN-SUFFIX,rutor.org
+  - DOMAIN-SUFFIX,rutracker.net
+  - DOMAIN-SUFFIX,rutracker.org
+  - DOMAIN-SUFFIX,rutracker.ru
+  - DOMAIN-SUFFIX,seasonvar.ru
+  - DOMAIN-SUFFIX,seedoff.zannn.top
+  - DOMAIN-SUFFIX,selezen.org
+  - DOMAIN-SUFFIX,static.hdrezka.ac
+  - DOMAIN-SUFFIX,static.lostfilm.top
+  - DOMAIN-SUFFIX,static.rutracker.cc
+  - DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,thepiratebay.org
+  - DOMAIN-SUFFIX,torrent.by
+  - DOMAIN-SUFFIX,torrentgalaxy.to
+  - DOMAIN-SUFFIX,tr.anidub.com
+  - DOMAIN-SUFFIX,tracker.opentrackr.org
+  - DOMAIN-SUFFIX,underver.se
+  - DOMAIN-SUFFIX,vkino.lafa.site
+  - DOMAIN-SUFFIX,zet-flix.online
+  - DOMAIN-SUFFIX,zetflix.online
+  #LAMPA-REZKA-BOOST
+  - DOMAIN-SUFFIX,annacdn.cc
+  - DOMAIN-SUFFIX,bhcesh.me
+  - DOMAIN-SUFFIX,ninsel.ws
+  - DOMAIN-SUFFIX,fotpro135alto.com
+  - DOMAIN-SUFFIX,cdnsqu.com
+  - DOMAIN-SUFFIX,cdnvideohub.com
+  - DOMAIN-SUFFIX,werkecdn.me
+  - DOMAIN-SUFFIX,tor2me.info
+  - DOMAIN-SUFFIX,apn.monster
+  - DOMAIN-SUFFIX,okcdn.ru
+  - DOMAIN-SUFFIX,videocdn.pw
+  - DOMAIN-SUFFIX,videocdn.so
+  - DOMAIN-SUFFIX,ukrtelcdn.net
+  #VPN-ФОРУМЫ
+  - DOMAIN-SUFFIX,adguard.com
+  - DOMAIN-SUFFIX,amnezia.org
+  - DOMAIN-SUFFIX,antizapret.prostovpn.org
+  - DOMAIN-SUFFIX,censortracker.org
+  - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-SUFFIX,discours.io
+  - DOMAIN-SUFFIX,dpidetector.org
+  - DOMAIN-SUFFIX,exler.ru
+  - DOMAIN-SUFFIX,finevpn.org
+  - DOMAIN-SUFFIX,forum.ru-board.com
+  - DOMAIN-SUFFIX,habr.com
+  - DOMAIN-SUFFIX,itdog.info
+  - DOMAIN-SUFFIX,mullvad.net
+  - DOMAIN-SUFFIX,ntc.party
+  - DOMAIN-SUFFIX,onlinesim.io
+  - DOMAIN-SUFFIX,onlinesim.ru
+  - DOMAIN-SUFFIX,prostovpn.org
+  - DOMAIN-SUFFIX,proton.me
+  - DOMAIN-SUFFIX,protonmail.com
+  - DOMAIN-SUFFIX,protonvpn.com
+  - DOMAIN-SUFFIX,psiphon.ca
+  - DOMAIN-SUFFIX,qr.ae
+  - DOMAIN-SUFFIX,quora.com
+  - DOMAIN-SUFFIX,quoracdn.net
+  - DOMAIN-SUFFIX,redshieldvpn.com
+  - DOMAIN-SUFFIX,roskomsvoboda.org
+  - DOMAIN-SUFFIX,sagernet.org
+  - DOMAIN-SUFFIX,te-st.org
+  - DOMAIN-SUFFIX,torproject.org
+  - DOMAIN-SUFFIX,unfiltered.adguard-dns.com
+  - DOMAIN-SUFFIX,vpngate.net
+  - DOMAIN-SUFFIX,vpngen.org
+  - DOMAIN-SUFFIX,vpnlove.me
+  - DOMAIN-SUFFIX,vpnpay.io
+  - DOMAIN-SUFFIX,watchguard.com
+  - DOMAIN-SUFFIX,zerolab.net
+  #PORN
+  - DOMAIN-SUFFIX,chaturbate.com
+  - DOMAIN-SUFFIX,eroticbeauties.net
+  - DOMAIN-SUFFIX,fuqqt.com
+  - DOMAIN-SUFFIX,hdtube.porn
+  - DOMAIN-SUFFIX,homepornking.com
+  - DOMAIN-SUFFIX,hqporner.com
+  - DOMAIN-SUFFIX,multporn.net
+  - DOMAIN-SUFFIX,phncdn.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN-SUFFIX,pornolab.net
+  - DOMAIN-SUFFIX,pussyspace.com
+  - DOMAIN-SUFFIX,redgifs.com
+  - DOMAIN-SUFFIX,redtube.com
+  - DOMAIN-SUFFIX,reddxxx.com
+  - DOMAIN-SUFFIX,static-ss.xvideos-cdn.com
+  - DOMAIN-SUFFIX,thatpervert.com
+  - DOMAIN-SUFFIX,youporn.com
+  - DOMAIN-SUFFIX,xhamster.com
+  - DOMAIN-SUFFIX,xhamsterlive.com
+  - DOMAIN-SUFFIX,xnxx-ru.com
+  - DOMAIN-SUFFIX,xnxx.com
+  - DOMAIN-SUFFIX,xv-ru.com
+  - DOMAIN-SUFFIX,xvideos.com
+  #ANIME
+  - DOMAIN-SUFFIX,anilibria.tv
+  - DOMAIN-SUFFIX,animejoy.site
+  - DOMAIN-SUFFIX,danbooru.donmai.us
+  - DOMAIN-SUFFIX,e-hentai.org
+  - DOMAIN-SUFFIX,gelbooru.com
+  - DOMAIN-SUFFIX,hentai-foundry.com
+  - DOMAIN-SUFFIX,island-of-pleasure.site
+  - DOMAIN-SUFFIX,iichan.hk
+  - DOMAIN-SUFFIX,mangadex.org
+  - DOMAIN-SUFFIX,mangahub.ru
+  - DOMAIN-SUFFIX,mangapark.net
+  - DOMAIN-SUFFIX,porncomicsus.com
+  - DOMAIN-SUFFIX,rf.dobrochan.net
+  - DOMAIN-SUFFIX,rule34.art
+  - DOMAIN-SUFFIX,shikimori.me
+  - DOMAIN-SUFFIX,vndb.org
+  - DOMAIN-SUFFIX,vrv.co
+  - DOMAIN-SUFFIX,webtoons.com
+  #3DModeling
+  - DOMAIN-SUFFIX,3d-load.net
+  - DOMAIN-SUFFIX,attachments.f95zone.to
+  - DOMAIN-SUFFIX,blinkshot.io
+  - DOMAIN-SUFFIX,f95-zone.to
+  - DOMAIN-SUFFIX,f95zone.com
+  - DOMAIN-SUFFIX,f95zone.to
+  - DOMAIN-SUFFIX,renderhub.com
+  - DOMAIN-SUFFIX,render-state.to
+  - DOMAIN-SUFFIX,slushe.com
+  - DOMAIN-SUFFIX,wp.com
+  #IPTV
+  - DOMAIN-SUFFIX,1cent.tv
   - DOMAIN-SUFFIX,cardshare.cc
   - DOMAIN-SUFFIX,cbilling.eu
   - DOMAIN-SUFFIX,cbilling.vip
-  - DOMAIN-SUFFIX,cdn.fbsbx.com
-  - DOMAIN-SUFFIX,cdn.id.supercell.com
-  - DOMAIN-SUFFIX,cdnbunny.org
-  - DOMAIN-SUFFIX,cdninstagram.com
-  - DOMAIN-SUFFIX,censortracker.org
-  - DOMAIN-SUFFIX,chaturbate.com
+  - DOMAIN-SUFFIX,forumtv.org
+  - DOMAIN-SUFFIX,ilook.tv
+  - DOMAIN-SUFFIX,ip-tv.club
+  - DOMAIN-SUFFIX,iptv.online
+  - DOMAIN-SUFFIX,lightiptv.cc
+  - DOMAIN-SUFFIX,ottclub.cc
+  - DOMAIN-SUFFIX,shara.club
+  - DOMAIN-SUFFIX,vipdrive.net
+  #КНИГИ
+  - DOMAIN-SUFFIX,abook-club.ru
+  - DOMAIN-SUFFIX,babook.org
+  - DOMAIN-SUFFIX,booktracker.org
+  - DOMAIN-SUFFIX,ficbook.net
+  - DOMAIN-SUFFIX,flibusta.is
+  - DOMAIN-SUFFIX,freedomletters.org
+  - DOMAIN-SUFFIX,lib.rus.ec
+  - DOMAIN-SUFFIX,librusec.club
+  - DOMAIN-SUFFIX,librusec.org
+  - DOMAIN-SUFFIX,librusec.pro
+  - DOMAIN-SUFFIX,proxy.flibusta.net
+  #МУЗЫКА
+  - DOMAIN-SUFFIX,amdm.ru
+  - DOMAIN-SUFFIX,deezer.com
+  - DOMAIN-SUFFIX,soundcloud.com
+  - DOMAIN-SUFFIX,theaudiodb.com
+  #ФОТО
+  - DOMAIN-SUFFIX,freeimages.com
+  - DOMAIN-SUFFIX,lamcdn.net
+  - DOMAIN-SUFFIX,pexels.com
+  - DOMAIN-SUFFIX,prnt.sc
+  - DOMAIN-SUFFIX,remove.bg
+  - DOMAIN-SUFFIX,simgbb.com
+  #GAMES
+  - DOMAIN-SUFFIX,boosteroid.com
   - DOMAIN-SUFFIX,chess.com
   - DOMAIN-SUFFIX,clashofclans.com
-  - DOMAIN-SUFFIX,cloudex.cc
-  - DOMAIN-SUFFIX,cloudflare-dns.com
-  - DOMAIN-SUFFIX,cloudflare-ech.com
-  - DOMAIN-SUFFIX,coldfilm.xyz
-  - DOMAIN-SUFFIX,coub.com
+  - DOMAIN-SUFFIX,gamesrepack.com
+  - DOMAIN-SUFFIX,ign.com
+  - DOMAIN-SUFFIX,riotpixels.com
+  - DOMAIN-SUFFIX,supercell.com
+  - DOMAIN-SUFFIX,wiki.fextralife.com
+  #ПОЧТА
+  - DOMAIN-SUFFIX,10minutemail.com
+  - DOMAIN-SUFFIX,api.protonmail.ch
+  - DOMAIN-SUFFIX,mail-api.proton.me
+  - DOMAIN-SUFFIX,mailfence.com
+  - DOMAIN-SUFFIX,tutanota.com
+  #СОФТ-ХАРД
+  - DOMAIN-SUFFIX,banana-pi.org
+  - DOMAIN-SUFFIX,bosch-home.com
   - DOMAIN-SUFFIX,cpu-monkey.com
-  - DOMAIN-SUFFIX,cub.red
-  - DOMAIN-SUFFIX,czx.to
   - DOMAIN-SUFFIX,daemon-tools.cc
-  - DOMAIN-SUFFIX,danbooru.donmai.us
-  - DOMAIN-SUFFIX,deezer.com
-  - DOMAIN-SUFFIX,digitalcontent.sky
+  - DOMAIN-SUFFIX,happymod.com
+  - DOMAIN-SUFFIX,macvendors.com
+  - DOMAIN-SUFFIX,magicmodapk.com
+  - DOMAIN-SUFFIX,telemetr.io
+  #EDGE
+  - DOMAIN-SUFFIX,dual-a-0001.a-msedge.net
+  - DOMAIN-SUFFIX,edge.microsoft.com
+  - DOMAIN-SUFFIX,edgeservices.bing.com
+  - DOMAIN-SUFFIX,news.google.com
+  #ОБЛАКА-ХРАНИЛИЩА
+  - DOMAIN-SUFFIX,fex.net
+  - DOMAIN-SUFFIX,quickconnect.to
+  - DOMAIN-SUFFIX,ufile.io
+  #РАБОТА-ОБУЧЕНИЕ
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-SUFFIX,static.licdn.com
+  - DOMAIN-SUFFIX,skladchik.com
+  - DOMAIN-SUFFIX,skladchiki.pro
+  #COUB
+  - DOMAIN-SUFFIX,coub.com
+  #DISCORD
   - DOMAIN-SUFFIX,dis.gd
   - DOMAIN-SUFFIX,discord-activities.com
   - DOMAIN-SUFFIX,discord.co
@@ -70,216 +291,25 @@ payload:
   - DOMAIN-SUFFIX,discordpartygames.com
   - DOMAIN-SUFFIX,discordsays.com
   - DOMAIN-SUFFIX,discordstatus.com
-  - DOMAIN-SUFFIX,discours.io
-  - DOMAIN-SUFFIX,disctech.com
-  - DOMAIN-SUFFIX,dorama.live
-  - DOMAIN-SUFFIX,doramalive.ru
-  - DOMAIN-SUFFIX,doramy.club
-  - DOMAIN-SUFFIX,dpidetector.org
-  - DOMAIN-SUFFIX,dual-a-0001.a-msedge.net
-  - DOMAIN-SUFFIX,edge.microsoft.com
-  - DOMAIN-SUFFIX,edgeservices.bing.com
-  - DOMAIN-SUFFIX,exler.ru
-  - DOMAIN-SUFFIX,f95-zone.to
-  - DOMAIN-SUFFIX,f95zone.com
-  - DOMAIN-SUFFIX,f95zone.to
+  #FACEBOOK
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,facebook.net
-  - DOMAIN-SUFFIX,fast-torrent.club
   - DOMAIN-SUFFIX,fb.com
   - DOMAIN-SUFFIX,fbcdn.net
   - DOMAIN-SUFFIX,fbsbx.com
-  - DOMAIN-SUFFIX,fex.net
-  - DOMAIN-SUFFIX,ficbook.net
-  - DOMAIN-SUFFIX,filmitorrent.net
-  - DOMAIN-SUFFIX,filmix.ac
-  - DOMAIN-SUFFIX,filmix.biz
-  - DOMAIN-SUFFIX,filmix.day
-  - DOMAIN-SUFFIX,filmix.fm
-  - DOMAIN-SUFFIX,filmix.la
-  - DOMAIN-SUFFIX,filmix.my
-  - DOMAIN-SUFFIX,filmix.tech
-  - DOMAIN-SUFFIX,finevpn.org
-  - DOMAIN-SUFFIX,flibusta.is
-  - DOMAIN-SUFFIX,forum.ru-board.com
-  - DOMAIN-SUFFIX,forumtv.org
-  - DOMAIN-SUFFIX,freedomletters.org
-  - DOMAIN-SUFFIX,freeimages.com
-  - DOMAIN-SUFFIX,fuqqt.com
-  - DOMAIN-SUFFIX,gamesrepack.com
-  - DOMAIN-SUFFIX,gelbooru.com
-  - DOMAIN-SUFFIX,habr.com
-  - DOMAIN-SUFFIX,happymod.com
-  - DOMAIN-SUFFIX,hd.zetfix.online
-  - DOMAIN-SUFFIX,hdrezka.ac
-  - DOMAIN-SUFFIX,hdrezka.ag
-  - DOMAIN-SUFFIX,hdrezka.me
-  - DOMAIN-SUFFIX,hdtube.porn
-  - DOMAIN-SUFFIX,hentai-foundry.com
-  - DOMAIN-SUFFIX,homepornking.com
-  - DOMAIN-SUFFIX,hqporner.com
-  - DOMAIN-SUFFIX,id.supercell.com
+  - DOMAIN-SUFFIX,internalfb.com
+  - DOMAIN-SUFFIX,oculus.com
+  #INSTAGRAM
+  - DOMAIN-SUFFIX,cdninstagram.com
   - DOMAIN-SUFFIX,ig.me
-  - DOMAIN-SUFFIX,ign.com
-  - DOMAIN-SUFFIX,iichan.hk
-  - DOMAIN-SUFFIX,ilook.tv
-  - DOMAIN-SUFFIX,image-resizing.sisi.am
-  - DOMAIN-SUFFIX,important-stories.com
   - DOMAIN-SUFFIX,instagr.am
   - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,internalfb.com
-  - DOMAIN-SUFFIX,ip-tv.club
-  - DOMAIN-SUFFIX,iptv.online
-  - DOMAIN-SUFFIX,island-of-pleasure.site
-  - DOMAIN-SUFFIX,itdog.info
-  - DOMAIN-SUFFIX,kino.pub
-  - DOMAIN-SUFFIX,kinobase.org
-  - DOMAIN-SUFFIX,kinogo.bot
-  - DOMAIN-SUFFIX,kinogo.ec
-  - DOMAIN-SUFFIX,kinogo.inc
-  - DOMAIN-SUFFIX,kinogo.online
-  - DOMAIN-SUFFIX,kinogo.prof
-  - DOMAIN-SUFFIX,kinokong.bz
-  - DOMAIN-SUFFIX,kinokong.day
-  - DOMAIN-SUFFIX,kinokopilka.pro
-  - DOMAIN-SUFFIX,kinopub.me
-  - DOMAIN-SUFFIX,kinovod.net
-  - DOMAIN-SUFFIX,kinozal.guru
-  - DOMAIN-SUFFIX,kinozal.me
-  - DOMAIN-SUFFIX,kinozal.tv
-  - DOMAIN-SUFFIX,kpapp.link
-  - DOMAIN-SUFFIX,lamcdn.net
-  - DOMAIN-SUFFIX,lib.rus.ec
-  - DOMAIN-SUFFIX,librusec.club
-  - DOMAIN-SUFFIX,librusec.org
-  - DOMAIN-SUFFIX,librusec.pro
-  - DOMAIN-SUFFIX,lightiptv.cc
-  - DOMAIN-SUFFIX,linkedin.com
-  - DOMAIN-SUFFIX,lostfilm.run
-  - DOMAIN-SUFFIX,lostfilm.tv
-  - DOMAIN-SUFFIX,lostfilm.win
-  - DOMAIN-SUFFIX,lostfilmtv2.site
-  - DOMAIN-SUFFIX,lostfilmtv5.site
-  - DOMAIN-SUFFIX,macpaw.com
-  - DOMAIN-SUFFIX,macvendors.com
-  - DOMAIN-SUFFIX,magicmodapk.com
-  - DOMAIN-SUFFIX,mail-api.proton.me
-  - DOMAIN-SUFFIX,mailfence.com
-  - DOMAIN-SUFFIX,mangadex.org
-  - DOMAIN-SUFFIX,mangahub.ru
-  - DOMAIN-SUFFIX,mangapark.net
-  - DOMAIN-SUFFIX,megapeer.ru
-  - DOMAIN-SUFFIX,megapeer.vip
-  - DOMAIN-SUFFIX,metacritic.com
-  - DOMAIN-SUFFIX,mullvad.net
-  - DOMAIN-SUFFIX,multporn.net
-  - DOMAIN-SUFFIX,mydoramy.club
-  - DOMAIN-SUFFIX,netflix.com
-  - DOMAIN-SUFFIX,news.google.com
-  - DOMAIN-SUFFIX,nnmclub.to
-  - DOMAIN-SUFFIX,nnmstatic.win
-  - DOMAIN-SUFFIX,ntc.party
-  - DOMAIN-SUFFIX,oculus.com
-  - DOMAIN-SUFFIX,onlinesim.io
-  - DOMAIN-SUFFIX,onlinesim.ru
-  - DOMAIN-SUFFIX,open.selezen.org
-  - DOMAIN-SUFFIX,ottclub.cc
-  - DOMAIN-SUFFIX,pb.wtf
-  - DOMAIN-SUFFIX,periscope.tv
-  - DOMAIN-SUFFIX,pexels.com
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,piratbit.top
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,pornolab.net
-  - DOMAIN-SUFFIX,premierleague.com
-  - DOMAIN-SUFFIX,prnt.sc
-  - DOMAIN-SUFFIX,prostovpn.org
-  - DOMAIN-SUFFIX,proton.me
-  - DOMAIN-SUFFIX,protonmail.com
-  - DOMAIN-SUFFIX,protonvpn.com
-  - DOMAIN-SUFFIX,proxy.flibusta.net
-  - DOMAIN-SUFFIX,pscp.tv
-  - DOMAIN-SUFFIX,psiphon.ca
-  - DOMAIN-SUFFIX,pussyspace.com
-  - DOMAIN-SUFFIX,qr.ae
-  - DOMAIN-SUFFIX,quora.com
-  - DOMAIN-SUFFIX,quoracdn.net
-  - DOMAIN-SUFFIX,quickconnect.to
-  - DOMAIN-SUFFIX,reddxxx.com
-  - DOMAIN-SUFFIX,redgifs.com
-  - DOMAIN-SUFFIX,redshieldvpn.com
-  - DOMAIN-SUFFIX,redtube.com
-  - DOMAIN-SUFFIX,remove.bg
-  - DOMAIN-SUFFIX,render-state.to
-  - DOMAIN-SUFFIX,renderhub.com
-  - DOMAIN-SUFFIX,rezka.ag
-  - DOMAIN-SUFFIX,rezka.my
-  - DOMAIN-SUFFIX,rezkify.com
-  - DOMAIN-SUFFIX,rf.dobrochan.net
-  - DOMAIN-SUFFIX,riotpixels.com
-  - DOMAIN-SUFFIX,riperam.org
-  - DOMAIN-SUFFIX,roskomsvoboda.org
-  - DOMAIN-SUFFIX,rule34.art
-  - DOMAIN-SUFFIX,rustorka.com
-  - DOMAIN-SUFFIX,rutor.info
-  - DOMAIN-SUFFIX,rutor.is
-  - DOMAIN-SUFFIX,rutor.org
-  - DOMAIN-SUFFIX,rutracker.net
-  - DOMAIN-SUFFIX,rutracker.org
-  - DOMAIN-SUFFIX,rutracker.ru
-  - DOMAIN-SUFFIX,sagernet.org
-  - DOMAIN-SUFFIX,seasonvar.ru
-  - DOMAIN-SUFFIX,seedoff.zannn.top
-  - DOMAIN-SUFFIX,selezen.org
-  - DOMAIN-SUFFIX,shara.club
-  - DOMAIN-SUFFIX,shikimori.me
-  - DOMAIN-SUFFIX,showip.net
-  - DOMAIN-SUFFIX,signal.org
-  - DOMAIN-SUFFIX,simgbb.com
-  - DOMAIN-SUFFIX,singlekey-id.com
-  - DOMAIN-SUFFIX,skladchik.com
-  - DOMAIN-SUFFIX,skladchiki.pro
-  - DOMAIN-SUFFIX,skyscanner.com
-  - DOMAIN-SUFFIX,slushe.com
-  - DOMAIN-SUFFIX,soundcloud.com
-  - DOMAIN-SUFFIX,st.kinovod.net
-  - DOMAIN-SUFFIX,static-ss.xvideos-cdn.com
-  - DOMAIN-SUFFIX,static.hdrezka.ac
-  - DOMAIN-SUFFIX,static.istories.media
-  - DOMAIN-SUFFIX,static.licdn.com
-  - DOMAIN-SUFFIX,static.lostfilm.top
-  - DOMAIN-SUFFIX,static.rutracker.cc
-  - DOMAIN-SUFFIX,strava.com
-  - DOMAIN-SUFFIX,supercell.com
-  - DOMAIN-SUFFIX,t.co
-  - DOMAIN-SUFFIX,te-st.org
-  - DOMAIN-SUFFIX,teamviewer.com
-  - DOMAIN-SUFFIX,telemetr.io
-  - DOMAIN-SUFFIX,tellapart.com
-  - DOMAIN-SUFFIX,theaudiodb.com
-  - DOMAIN-SUFFIX,themoviedb.org
-  - DOMAIN-SUFFIX,thepiratebay.org
   - DOMAIN-SUFFIX,threads.net
-  - DOMAIN-SUFFIX,tik-tokapi.com
-  - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,tiktokcdn-eu.com
-  - DOMAIN-SUFFIX,tiktokcdn-us.com
-  - DOMAIN-SUFFIX,tiktokcdn.com
-  - DOMAIN-SUFFIX,tiktokd.net
-  - DOMAIN-SUFFIX,tiktokd.org
-  - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-SUFFIX,tiktokv.us
-  - DOMAIN-SUFFIX,tiktokw.us
-  - DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
-  - DOMAIN-SUFFIX,tmdb.org
-  - DOMAIN-SUFFIX,tokenized.play.google.com
-  - DOMAIN-SUFFIX,torproject.org
-  - DOMAIN-SUFFIX,torrent.by
-  - DOMAIN-SUFFIX,torrentgalaxy.to
-  - DOMAIN-SUFFIX,tr.anidub.com
-  - DOMAIN-SUFFIX,tracker.opentrackr.org
-  - DOMAIN-SUFFIX,ttwstatic.com
-  - DOMAIN-SUFFIX,tutanota.com
+  #TWITTER
+  - DOMAIN-SUFFIX,ads-twitter.com
+  - DOMAIN-SUFFIX,periscope.tv
+  - DOMAIN-SUFFIX,pscp.tv
+  - DOMAIN-SUFFIX,t.co
   - DOMAIN-SUFFIX,tweetdeck.com
   - DOMAIN-SUFFIX,twimg.com
   - DOMAIN-SUFFIX,twirpx.com
@@ -296,38 +326,24 @@ payload:
   - DOMAIN-SUFFIX,twttr.com
   - DOMAIN-SUFFIX,twttr.net
   - DOMAIN-SUFFIX,twvid.com
-  - DOMAIN-SUFFIX,ufile.io
-  - DOMAIN-SUFFIX,ukrtelcdn.net
-  - DOMAIN-SUFFIX,underver.se
-  - DOMAIN-SUFFIX,unfiltered.adguard-dns.com
   - DOMAIN-SUFFIX,vine.co
-  - DOMAIN-SUFFIX,vipdrive.net
-  - DOMAIN-SUFFIX,vkino.lafa.site
-  - DOMAIN-SUFFIX,vndb.org
-  - DOMAIN-SUFFIX,vpngate.net
-  - DOMAIN-SUFFIX,vpngen.org
-  - DOMAIN-SUFFIX,vpnlove.me
-  - DOMAIN-SUFFIX,vpnpay.io
-  - DOMAIN-SUFFIX,vrv.co
-  - DOMAIN-SUFFIX,watchguard.com
-  - DOMAIN-SUFFIX,webtoons.com
-  - DOMAIN-SUFFIX,wetransfer.com
-  - DOMAIN-SUFFIX,wiki.fextralife.com
-  - DOMAIN-SUFFIX,wp.com
   - DOMAIN-SUFFIX,x.com
-  - DOMAIN-SUFFIX,xhamster.com
-  - DOMAIN-SUFFIX,xhamsterlive.com
-  - DOMAIN-SUFFIX,xnxx-ru.com
-  - DOMAIN-SUFFIX,xnxx.com
-  - DOMAIN-SUFFIX,xv-ru.com
-  - DOMAIN-SUFFIX,xvideos.com
-  - DOMAIN-SUFFIX,youporn.com
-  - DOMAIN-SUFFIX,zendesk.com
-  - DOMAIN-SUFFIX,zerolab.net
-  - DOMAIN-SUFFIX,zetflix.online
+  #TIKTOK
+  - DOMAIN-SUFFIX,tik-tokapi.com
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokcdn-eu.com
+  - DOMAIN-SUFFIX,tiktokcdn-us.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokd.net
+  - DOMAIN-SUFFIX,tiktokd.org
+  - DOMAIN-SUFFIX,tiktokv.com
+  - DOMAIN-SUFFIX,tiktokv.us
+  - DOMAIN-SUFFIX,tiktokw.us
+  - DOMAIN-SUFFIX,ttwstatic.com
+  #YOUTUBE
   - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,youtubekids.com
@@ -335,6 +351,7 @@ payload:
   - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,youtubei.googleapis.com
   - DOMAIN-SUFFIX,youtube-ui.l.google.com
+  - DOMAIN-SUFFIX,youtubemobilesupport.com
   - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,yt-video-upload.l.google.com
   - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
