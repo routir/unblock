@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,cloudflare-ech.com
+  - IP-CIDR,188.114.99.228/32
   #КИНОТЕАТРЫ-ТОРРЕНТЫ
   - DOMAIN-SUFFIX,1337x.to
   - DOMAIN-SUFFIX,bitru.org
