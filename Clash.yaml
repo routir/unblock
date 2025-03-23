@@ -90,19 +90,19 @@ payload:
   - DOMAIN-SUFFIX,zet-flix.online
   - DOMAIN-SUFFIX,zetflix.online
   #LAMPA-REZKA-BOOST
-  - DOMAIN-SUFFIX,annacdn.cc
-  - DOMAIN-SUFFIX,bhcesh.me
-  - DOMAIN-SUFFIX,ninsel.ws
-  - DOMAIN-SUFFIX,fotpro135alto.com
-  - DOMAIN-SUFFIX,cdnsqu.com
-  - DOMAIN-SUFFIX,cdnvideohub.com
-  - DOMAIN-SUFFIX,werkecdn.me
-  - DOMAIN-SUFFIX,tor2me.info
-  - DOMAIN-SUFFIX,apn.monster
-  - DOMAIN-SUFFIX,okcdn.ru
-  - DOMAIN-SUFFIX,videocdn.pw
-  - DOMAIN-SUFFIX,videocdn.so
-  - DOMAIN-SUFFIX,ukrtelcdn.net
+  #- DOMAIN-SUFFIX,annacdn.cc
+  #- DOMAIN-SUFFIX,bhcesh.me
+  #- DOMAIN-SUFFIX,ninsel.ws
+  #- DOMAIN-SUFFIX,fotpro135alto.com
+  #- DOMAIN-SUFFIX,cdnsqu.com
+  #- DOMAIN-SUFFIX,cdnvideohub.com
+  #- DOMAIN-SUFFIX,werkecdn.me
+  #- DOMAIN-SUFFIX,tor2me.info
+  #- DOMAIN-SUFFIX,apn.monster
+  #- DOMAIN-SUFFIX,okcdn.ru
+  #- DOMAIN-SUFFIX,videocdn.pw
+  #- DOMAIN-SUFFIX,videocdn.so
+  #- DOMAIN-SUFFIX,ukrtelcdn.net
   #VPN-ФОРУМЫ
   - DOMAIN-SUFFIX,adguard.com
   - DOMAIN-SUFFIX,amnezia.org
