@@ -226,6 +226,7 @@ payload:
   - DOMAIN-SUFFIX,theaudiodb.com
   #ФОТО
   - DOMAIN-SUFFIX,freeimages.com
+  - DOMAIN-SUFFIX,imgbb.com
   - DOMAIN-SUFFIX,lamcdn.net
   - DOMAIN-SUFFIX,pexels.com
   - DOMAIN-SUFFIX,prnt.sc
