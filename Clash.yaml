@@ -116,6 +116,8 @@ payload:
   - DOMAIN-SUFFIX,forum.ru-board.com
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,itdog.info
+  - DOMAIN-SUFFIX,ixbt.com
+  - DOMAIN-SUFFIX,ixbt.site
   - DOMAIN-SUFFIX,mullvad.net
   - DOMAIN-SUFFIX,ntc.party
   - DOMAIN-SUFFIX,onlinesim.io
