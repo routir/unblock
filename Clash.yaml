@@ -281,6 +281,13 @@ payload:
   - DOMAIN-SUFFIX,static.licdn.com
   - DOMAIN-SUFFIX,skladchik.com
   - DOMAIN-SUFFIX,skladchiki.pro
+  #NOTION
+  - DOMAIN-SUFFIX,notion-static.com
+  - DOMAIN-SUFFIX,notion.com
+  - DOMAIN-SUFFIX,notion.new
+  - DOMAIN-SUFFIX,notion.site
+  - DOMAIN-SUFFIX,notion.so
+  - DOMAIN-SUFFIX,notionusercontent.com
   #COUB
   - DOMAIN-SUFFIX,coub.com
   #DISCORD
