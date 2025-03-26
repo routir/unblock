@@ -1,6 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,cloudflare-ech.com
-  # - IP-CIDR,188.114.96.0/22
   - IP-CIDR,104.21.80.1/32
   - IP-CIDR,104.21.64.1/32
   - IP-CIDR,104.21.96.1/32
