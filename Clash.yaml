@@ -1,6 +1,9 @@
 payload:
   #КИНОТЕАТРЫ-ТОРРЕНТЫ
+  - DOMAIN-SUFFIX,1337x.eu
+  - DOMAIN-SUFFIX,1337x.st
   - DOMAIN-SUFFIX,1337x.to
+  - DOMAIN-SUFFIX,ashdi.vip
   - DOMAIN-SUFFIX,bitru.org
   - DOMAIN-SUFFIX,bt.t-ru.org
   - DOMAIN-SUFFIX,bt2.t-ru.org
@@ -15,10 +18,12 @@ payload:
   - DOMAIN-SUFFIX,dorama.live
   - DOMAIN-SUFFIX,doramalive.ru
   - DOMAIN-SUFFIX,doramy.club
+  - DOMAIN-SUFFIX,eneyida.tv
   - DOMAIN-SUFFIX,fast-torrent.club
   - DOMAIN-SUFFIX,filmitorrent.net
   - DOMAIN-SUFFIX,filmix.ac
   - DOMAIN-SUFFIX,filmix.biz
+  - DOMAIN-SUFFIX,filmix.co
   - DOMAIN-SUFFIX,filmix.day
   - DOMAIN-SUFFIX,filmix.fm
   - DOMAIN-SUFFIX,filmix.la
@@ -26,9 +31,13 @@ payload:
   - DOMAIN-SUFFIX,filmix.tech
   - DOMAIN-SUFFIX,filmixapp.cyou
   - DOMAIN-SUFFIX,filmixapp.vip
+  - DOMAIN-SUFFIX,flypink.org
   - DOMAIN-SUFFIX,hdrezka.ac
   - DOMAIN-SUFFIX,hdrezka.ag
   - DOMAIN-SUFFIX,hdrezka.me
+  - DOMAIN-SUFFIX,hdrzk.org
+  - DOMAIN-SUFFIX,jacred.ru
+  - DOMAIN-SUFFIX,jacred.xyz
   - DOMAIN-SUFFIX,kino.pub
   - DOMAIN-SUFFIX,kinobase.org
   - DOMAIN-SUFFIX,kinogo.bot
@@ -36,15 +45,18 @@ payload:
   - DOMAIN-SUFFIX,kinogo.inc
   - DOMAIN-SUFFIX,kinogo.online
   - DOMAIN-SUFFIX,kinogo.prof
+  - DOMAIN-SUFFIX,kinogram.best
   - DOMAIN-SUFFIX,kinokong.bz
   - DOMAIN-SUFFIX,kinokong.day
   - DOMAIN-SUFFIX,kinokopilka.pro
   - DOMAIN-SUFFIX,kinopub.me
+  - DOMAIN-SUFFIX,kinovibe.co
   - DOMAIN-SUFFIX,kinovod.net
   - DOMAIN-SUFFIX,kinozal.guru
   - DOMAIN-SUFFIX,kinozal.me
   - DOMAIN-SUFFIX,kinozal.tv
   - DOMAIN-SUFFIX,kpapp.link
+  - DOMAIN-SUFFIX,kpfr.fun
   - DOMAIN-SUFFIX,lostfilm.run
   - DOMAIN-SUFFIX,lostfilm.tv
   - DOMAIN-SUFFIX,lostfilm.win
@@ -59,6 +71,8 @@ payload:
   - DOMAIN-SUFFIX,open.selezen.org
   - DOMAIN-SUFFIX,pb.wtf
   - DOMAIN-SUFFIX,piratbit.top
+  - DOMAIN-SUFFIX,piratebay.live
+  - DOMAIN-SUFFIX,reyohoho.space
   - DOMAIN-SUFFIX,rezka.ag
   - DOMAIN-SUFFIX,rezka.my
   - DOMAIN-SUFFIX,rezkify.com
@@ -70,10 +84,13 @@ payload:
   - DOMAIN-SUFFIX,rutracker.net
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutracker.ru
+  - DOMAIN-SUFFIX,seasonvar.kz
   - DOMAIN-SUFFIX,seasonvar.ru
+  - DOMAIN-SUFFIX,seasonvar.zone
   - DOMAIN-SUFFIX,seedoff.zannn.top
-  - DOMAIN-SUFFIX,selezen.org
+  - DOMAIN-SUFFIX,selezen.club
   - DOMAIN-SUFFIX,selezen.net
+  - DOMAIN-SUFFIX,selezen.org
   - DOMAIN-SUFFIX,static.hdrezka.ac
   - DOMAIN-SUFFIX,static.lostfilm.top
   - DOMAIN-SUFFIX,static.rutracker.cc
@@ -81,10 +98,13 @@ payload:
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,thepiratebay.org
+  - DOMAIN-SUFFIX,tpb.party
   - DOMAIN-SUFFIX,torrent.by
   - DOMAIN-SUFFIX,torrentgalaxy.to
   - DOMAIN-SUFFIX,tr.anidub.com
   - DOMAIN-SUFFIX,tracker.opentrackr.org
+  - DOMAIN-SUFFIX,ultradox.host
+  - DOMAIN-SUFFIX,ultradox.xyz
   - DOMAIN-SUFFIX,underver.se
   - DOMAIN-SUFFIX,vkino.lafa.site
   - DOMAIN-SUFFIX,zet-flix.online
