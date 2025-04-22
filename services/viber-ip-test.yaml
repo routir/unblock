@@ -24,4 +24,3 @@ payload:
   - IP-CIDR,54.93.162.0/24
 #  - IP-CIDR,54.228.0.0/14
   - IP-CIDR,63.176.0.0/15
-  - DOMAIN-SUFFIX,meduza.io
