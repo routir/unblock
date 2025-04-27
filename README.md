@@ -42,7 +42,7 @@ P.S. в начале 2025 YouTube начал показывать многоча
 
 В папку services добавлен список [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) с проверенными CIDR
 
-Некоторые подсети разрешаются через s3.amazonaws.com , в папку servivces добавлен тестовый список [viber-ip-test.yaml](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-test.yaml) с доменом amazonaws.com , а соответствующие CIDR закомментированы
+Некоторые подсети разрешаются через s3.amazonaws.com , в папку services добавлен тестовый список [viber-ip-test.yaml](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-test.yaml) с доменом amazonaws.com , а соответствующие CIDR закомментированы
 
 При использовании Вайбера через прокси будьте осторожны, т.к. он поднимает множество соединений на разных портах, на которые может падать и торрент-трафик. Лучше всего направлять через WARP или нечувствительные прокси.
 </details>
