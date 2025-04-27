@@ -38,19 +38,12 @@ P.S. в начале 2025 YouTube начал показывать многоча
 </details>
 
 <details><summary>VIBER</summary>
-заблокированы viber.com(основные медиа), rakuten.com(звонки) и подсети amazon.
+заблокированы viber.com rakuten.com и подсети амазона
 
-В папку services добавлен список [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) с проверенными CIDR, которые желательно пускать через другой прокси(не WARP).
+В папку services добавлен список [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) с проверенными CIDR
 
-При старте Вайбера запрашиваются айпи с домена s3.amazonaws.com (заблокирован у отдельных провайдеров, [viber-ip-de.lst](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-de.lst) уже содержит необходимые подсети)
+Некоторые подсети разрешаются через s3.amazonaws.com , в папку servivces добавлен тестовый список [viber-ip-test.yaml](https://raw.githubusercontent.com/routir/unblock/refs/heads/main/services/viber-ip-test.yaml) с доменом amazonaws.com , а соответствующие CIDR закомментированы
 
-При звонках вызывается большой американский пул, поэтому 18.184.0.0/13, 18.192.0.0/13 для большего охвата.
-
-На данный момент Viber для медиаконтента использует подсети Google Cloud: 34.0.0.0/15, 35.207.0.0/16.
-
-Виндовый вайбер для авторизации по QR коду запрашивает 34.192.0.0/12, 52.0.0.0/15.
-
-Все диапазоны Amazon можно посмотреть здесь https://ip-ranges.amazonaws.com/geo-ip-feed.csv
 </details>
 
 
