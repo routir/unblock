@@ -1,8 +1,8 @@
 payload:
   #КИНОТЕАТРЫ-ТОРРЕНТЫ
   - DOMAIN-SUFFIX,1337x.eu
-  - DOMAIN-SUFFIX,1337x.st
   - DOMAIN-SUFFIX,1337x.to
+  - DOMAIN-SUFFIX,1337x.st
   - DOMAIN-SUFFIX,ashdi.vip
   - DOMAIN-SUFFIX,bitru.org
   - DOMAIN-SUFFIX,bt.t-ru.org
@@ -57,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,kinozal.tv
   - DOMAIN-SUFFIX,kpapp.link
   - DOMAIN-SUFFIX,kpfr.fun
+  - DOMAIN-SUFFIX,lafa.site
   - DOMAIN-SUFFIX,lostfilm.run
   - DOMAIN-SUFFIX,lostfilm.tv
   - DOMAIN-SUFFIX,lostfilm.win
@@ -85,12 +86,13 @@ payload:
   - DOMAIN-SUFFIX,rutracker.org
   - DOMAIN-SUFFIX,rutracker.ru
   - DOMAIN-SUFFIX,seasonvar.kz
+  - DOMAIN-SUFFIX,seasonvar.ink  
   - DOMAIN-SUFFIX,seasonvar.ru
   - DOMAIN-SUFFIX,seasonvar.zone
   - DOMAIN-SUFFIX,seedoff.zannn.top
   - DOMAIN-SUFFIX,selezen.club
-  - DOMAIN-SUFFIX,selezen.net
   - DOMAIN-SUFFIX,selezen.org
+  - DOMAIN-SUFFIX,selezen.net
   - DOMAIN-SUFFIX,static.hdrezka.ac
   - DOMAIN-SUFFIX,static.lostfilm.top
   - DOMAIN-SUFFIX,static.rutracker.cc
@@ -98,14 +100,15 @@ payload:
   - DOMAIN-SUFFIX,tmdb.org
   - DOMAIN-SUFFIX,themoviedb.org
   - DOMAIN-SUFFIX,thepiratebay.org
-  - DOMAIN-SUFFIX,tpb.party
   - DOMAIN-SUFFIX,torrent.by
   - DOMAIN-SUFFIX,torrentgalaxy.to
+  - DOMAIN-SUFFIX,tpb.party
   - DOMAIN-SUFFIX,tr.anidub.com
   - DOMAIN-SUFFIX,tracker.opentrackr.org
   - DOMAIN-SUFFIX,ultradox.host
   - DOMAIN-SUFFIX,ultradox.xyz
   - DOMAIN-SUFFIX,underver.se
+  - DOMAIN-SUFFIX,videocdn.tv
   - DOMAIN-SUFFIX,vkino.lafa.site
   - DOMAIN-SUFFIX,zet-flix.online
   - DOMAIN-SUFFIX,zetflix.online
@@ -119,7 +122,6 @@ payload:
   - DOMAIN-SUFFIX,werkecdn.me
   - DOMAIN-SUFFIX,tor2me.info
   - DOMAIN-SUFFIX,apn.monster
-  - DOMAIN-SUFFIX,okcdn.ru
   - DOMAIN-SUFFIX,videocdn.pw
   - DOMAIN-SUFFIX,videocdn.so
   - DOMAIN-SUFFIX,ukrtelcdn.net
@@ -136,8 +138,6 @@ payload:
   - DOMAIN-SUFFIX,forum.ru-board.com
   - DOMAIN-SUFFIX,habr.com
   - DOMAIN-SUFFIX,itdog.info
-  - DOMAIN-SUFFIX,ixbt.com
-  - DOMAIN-SUFFIX,ixbt.site
   - DOMAIN-SUFFIX,mullvad.net
   - DOMAIN-SUFFIX,ntc.party
   - DOMAIN-SUFFIX,onlinesim.io
@@ -166,6 +166,7 @@ payload:
   - DOMAIN-SUFFIX,chaturbate.com
   - DOMAIN-SUFFIX,eroticbeauties.net
   - DOMAIN-SUFFIX,fuqqt.com
+  - DOMAIN-SUFFIX,hardgif.com
   - DOMAIN-SUFFIX,hdtube.porn
   - DOMAIN-SUFFIX,homepornking.com
   - DOMAIN-SUFFIX,hqporner.com
@@ -177,6 +178,7 @@ payload:
   - DOMAIN-SUFFIX,redgifs.com
   - DOMAIN-SUFFIX,redtube.com
   - DOMAIN-SUFFIX,reddxxx.com
+  - DOMAIN-SUFFIX,rule34vault.com
   - DOMAIN-SUFFIX,static-ss.xvideos-cdn.com
   - DOMAIN-SUFFIX,thatpervert.com
   - DOMAIN-SUFFIX,youporn.com
@@ -250,7 +252,9 @@ payload:
   #ФОТО
   - DOMAIN-SUFFIX,freeimages.com
   - DOMAIN-SUFFIX,imgbb.com
+  - DOMAIN-SUFFIX,kartinko.org
   - DOMAIN-SUFFIX,lamcdn.net
+  - DOMAIN-SUFFIX,lostpix.com
   - DOMAIN-SUFFIX,pexels.com
   - DOMAIN-SUFFIX,prnt.sc
   - DOMAIN-SUFFIX,remove.bg
@@ -338,6 +342,7 @@ payload:
   - DOMAIN-SUFFIX,ig.me
   - DOMAIN-SUFFIX,instagr.am
   - DOMAIN-SUFFIX,instagram.com
+  - DOMAIN-SUFFIX,thedise.me
   - DOMAIN-SUFFIX,threads.net
   #TWITTER
   - DOMAIN-SUFFIX,ads-twitter.com
@@ -376,16 +381,16 @@ payload:
   - DOMAIN-SUFFIX,ttwstatic.com
   #YOUTUBE
   - DOMAIN-SUFFIX,youtu.be
-  - DOMAIN-SUFFIX,ggpht.com
   - DOMAIN-SUFFIX,ytimg.com
-  - DOMAIN-SUFFIX,youtube.com
+  - DOMAIN-SUFFIX,ggpht.com
+  - DOMAIN-SUFFIX.com
   - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIX,youtubekids.com
+  - DOMAIN-SUFFIXkids.com
   - DOMAIN-SUFFIX,ytimg.l.google.com
-  - DOMAIN-SUFFIX,youtube-nocookie.com
-  - DOMAIN-SUFFIX,youtubei.googleapis.com
-  - DOMAIN-SUFFIX,youtube-ui.l.google.com
-  - DOMAIN-SUFFIX,youtubemobilesupport.com
+  - DOMAIN-SUFFIX-nocookie.com
+  - DOMAIN-SUFFIX,jnn-pa.googleapis.com
+  - DOMAIN-SUFFIXi.googleapis.com
+  - DOMAIN-SUFFIX-ui.l.google.com
   - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,yt-video-upload.l.google.com
-  - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
+  - DOMAIN-SUFFIXembeddedplayer.googleapis.com
