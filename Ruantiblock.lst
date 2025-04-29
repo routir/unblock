@@ -1,10 +1,10 @@
-#GLOBAL CLOUDFLARE
-cloudflare-dns.com
+#GLOBAL CLOUDFLARE ECH
 cloudflare-ech.com
+
 #КИНОТЕАТРЫ-ТОРРЕНТЫ
 1337x.eu
-1337x.st
 1337x.to
+1337x.st
 ashdi.vip
 bitru.org
 bt.t-ru.org
@@ -59,6 +59,7 @@ kinozal.me
 kinozal.tv
 kpapp.link
 kpfr.fun
+lafa.site
 lostfilm.run
 lostfilm.tv
 lostfilm.win
@@ -87,12 +88,13 @@ rutracker.net
 rutracker.org
 rutracker.ru
 seasonvar.kz
+seasonvar.ink  
 seasonvar.ru
 seasonvar.zone
 seedoff.zannn.top
 selezen.club
-selezen.net
 selezen.org
+selezen.net
 static.hdrezka.ac
 static.lostfilm.top
 static.rutracker.cc
@@ -100,14 +102,15 @@ tmdb-image-prod.b-cdn.net
 tmdb.org
 themoviedb.org
 thepiratebay.org
-tpb.party
 torrent.by
 torrentgalaxy.to
+tpb.party
 tr.anidub.com
 tracker.opentrackr.org
 ultradox.host
 ultradox.xyz
 underver.se
+videocdn.tv
 vkino.lafa.site
 zet-flix.online
 zetflix.online
@@ -122,7 +125,6 @@ cdnvideohub.com
 werkecdn.me
 tor2me.info
 apn.monster
-okcdn.ru
 videocdn.pw
 videocdn.so
 ukrtelcdn.net
@@ -132,6 +134,7 @@ adguard.com
 amnezia.org
 antizapret.prostovpn.org
 censortracker.org
+cloudflare-dns.com
 discours.io
 dpidetector.org
 exler.ru
@@ -168,6 +171,7 @@ zerolab.net
 chaturbate.com
 eroticbeauties.net
 fuqqt.com
+hardgif.com
 hdtube.porn
 homepornking.com
 hqporner.com
@@ -179,6 +183,7 @@ pussyspace.com
 redgifs.com
 redtube.com
 reddxxx.com
+rule34vault.com
 static-ss.xvideos-cdn.com
 thatpervert.com
 youporn.com
@@ -257,7 +262,10 @@ theaudiodb.com
 
 #ФОТО
 freeimages.com
+imgbb.com
+kartinko.org
 lamcdn.net
+lostpix.com
 pexels.com
 prnt.sc
 remove.bg
@@ -307,6 +315,14 @@ static.licdn.com
 skladchik.com
 skladchiki.pro
 
+#NOTION
+notion-static.com
+notion.com
+notion.new
+notion.site
+notion.so
+notionusercontent.com
+
 #COUB
 coub.com
 
@@ -348,6 +364,7 @@ cdninstagram.com
 ig.me
 instagr.am
 instagram.com
+thedise.me
 threads.net
 
 #TWITTER
@@ -387,20 +404,18 @@ tiktokv.us
 tiktokw.us
 ttwstatic.com
 
-#VIBER
-
 #YOUTUBE
 youtu.be
-ggpht.com
 ytimg.com
+ggpht.com
 youtube.com
 googlevideo.com
 youtubekids.com
 ytimg.l.google.com
 youtube-nocookie.com
+jnn-pa.googleapis.com
 youtubei.googleapis.com
 youtube-ui.l.google.com
-youtubemobilesupport.com
 wide-youtube.l.google.com
 yt-video-upload.l.google.com
 youtubeembeddedplayer.googleapis.com
