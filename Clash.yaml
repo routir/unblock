@@ -250,7 +250,9 @@ payload:
   - DOMAIN-SUFFIX,soundcloud.com
   - DOMAIN-SUFFIX,theaudiodb.com
   #ФОТО
+  - DOMAIN-SUFFIX,dk-s.ru
   - DOMAIN-SUFFIX,freeimages.com
+  - DOMAIN-SUFFIX,imageup.ru
   - DOMAIN-SUFFIX,imgbb.com
   - DOMAIN-SUFFIX,kartinko.org
   - DOMAIN-SUFFIX,lamcdn.net
