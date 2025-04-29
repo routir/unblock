@@ -383,14 +383,14 @@ payload:
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,ggpht.com
-  - DOMAIN-SUFFIX.com
+  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,googlevideo.com
-  - DOMAIN-SUFFIXkids.com
+  - DOMAIN-SUFFIX,youtubekids.com
   - DOMAIN-SUFFIX,ytimg.l.google.com
-  - DOMAIN-SUFFIX-nocookie.com
+  - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,jnn-pa.googleapis.com
-  - DOMAIN-SUFFIXi.googleapis.com
-  - DOMAIN-SUFFIX-ui.l.google.com
+  - DOMAIN-SUFFIX,youtubei.googleapis.com
+  - DOMAIN-SUFFIX,youtube-ui.l.google.com
   - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,yt-video-upload.l.google.com
-  - DOMAIN-SUFFIXembeddedplayer.googleapis.com
+  - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
