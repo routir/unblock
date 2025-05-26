@@ -11,5 +11,6 @@ payload:
   - DOMAIN-SUFFIX,youtubei.googleapis.com
   - DOMAIN-SUFFIX,youtube-ui.l.google.com
   - DOMAIN-SUFFIX,wide-youtube.l.google.com
+  - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
   - DOMAIN-SUFFIX,yt-video-upload.l.google.com
   - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
