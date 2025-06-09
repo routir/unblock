@@ -13,4 +13,5 @@ payload:
   - DOMAIN-SUFFIX,wide-youtube.l.google.com
   - DOMAIN-SUFFIX,returnyoutubedislikeapi.com
   - DOMAIN-SUFFIX,yt-video-upload.l.google.com
+  - DOMAIN-SUFFIX,androidtvchannels-pa.googleapis.com
   - DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
