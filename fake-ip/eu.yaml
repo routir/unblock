@@ -1,4 +1,3 @@
-# AI
       - DOMAIN-SUFFIX,chatgpt.com
       - DOMAIN-SUFFIX,openai.com
       - DOMAIN-SUFFIX,oaistatic.com
@@ -23,8 +22,7 @@
       - DOMAIN-SUFFIX,piclumen.com
       - DOMAIN-SUFFIX,grok.com
       - DOMAIN,accounts.x.ai
-      - DOMAIN-SUFFIX,raphael.app,WARP-PROTON
-# GOOGLE AI
+      - DOMAIN-SUFFIX,raphael.app
       - DOMAIN-SUFFIX,ai.google.dev
       - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
       - DOMAIN-SUFFIX,aistudio.google.com
@@ -45,7 +43,6 @@
       - DOMAIN-SUFFIX,notebooklm.google.com
       - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
       - DOMAIN-SUFFIX,stitch.withgoogle.com
-# AI Hosts Added
       - DOMAIN-SUFFIX,assistant-s3-pa.googleapis.com
       - DOMAIN-SUFFIX,developerprofiles-pa.googleapis.com
       - DOMAIN-SUFFIX,ai-chat.bsg.brave.com
@@ -56,13 +53,10 @@
       - DOMAIN-SUFFIX,githubcopilot.com
       - DOMAIN-SUFFIX,sydney.bing.com
       - DOMAIN-SUFFIX,xsts.auth.xboxlive.com
-# 4PDA
       - DOMAIN-SUFFIX,4pda.to
       - DOMAIN-SUFFIX,4pda.ws
-# SPOTIFY
       - DOMAIN-SUFFIX,scdn.co
       - DOMAIN-SUFFIX,spotify.com
-# OTHER
       - DOMAIN-SUFFIX,ebay.com
       - DOMAIN-SUFFIX,userstyles.org
       - DOMAIN-SUFFIX,sisi.am
@@ -72,22 +66,18 @@
       - DOMAIN-SUFFIX,wmtips.com
       - DOMAIN-SUFFIX,2ip.ru
       - DOMAIN-SUFFIX,2ip.io
-# ggsel vless access
       - DOMAIN-SUFFIX,ggsel.net
       - DOMAIN-SUFFIX,ggsel.io
       - DOMAIN-SUFFIX,ggsel.com
       - DOMAIN-SUFFIX,ggsel.ru
-# TEST
       - DOMAIN-SUFFIX,e-revo.net
       - DOMAIN-SUFFIX,developers.google.com
       - DOMAIN-SUFFIX,developer.android.com
       - DOMAIN-SUFFIX,ip.netip.city
-# Sex.com
       - DOMAIN-SUFFIX,sex.com
       - DOMAIN-SUFFIX,sxccdn.com
       - DOMAIN-SUFFIX,sx.cdn.live
       - DOMAIN-SUFFIX,randomgodbot.com
-# Goole Play
       - DOMAIN-SUFFIX,play.google.com
       - DOMAIN-SUFFIX,gvt1.com
       - DOMAIN-SUFFIX,gvt2.com
@@ -96,7 +86,6 @@
       - DOMAIN-SUFFIX,dl-ssl.google.com
       - DOMAIN-SUFFIX,android.apis.google.com
       - DOMAIN-SUFFIX,android.clients.google.com
-# Cloudflare GLOBAL
       - DOMAIN-SUFFIX,cloudflarestatus.com
       - DOMAIN-SUFFIX,cloudflare-ech.com
       - DOMAIN-SUFFIX,cloudflare-dns.com
