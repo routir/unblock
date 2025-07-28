@@ -21,7 +21,7 @@
       - DOMAIN-SUFFIX,artificialanalysiscdn.com
       - DOMAIN-SUFFIX,piclumen.com
       - DOMAIN-SUFFIX,grok.com
-      - DOMAIN,accounts.x.ai
+      - DOMAIN-SUFFIX,x.ai
       - DOMAIN-SUFFIX,raphael.app
       - DOMAIN-SUFFIX,ai.google.dev
       - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
