@@ -75,9 +75,6 @@ payload:
    - DOMAIN-SUFFIX,developers.google.com
    - DOMAIN-SUFFIX,developer.android.com
    - DOMAIN-SUFFIX,ip.netip.city
-   - DOMAIN-SUFFIX,sex.com
-   - DOMAIN-SUFFIX,sxccdn.com
-   - DOMAIN-SUFFIX,sx.cdn.live
    - DOMAIN-SUFFIX,randomgodbot.com
    - DOMAIN-SUFFIX,play.google.com
    - DOMAIN-SUFFIX,gvt1.com
