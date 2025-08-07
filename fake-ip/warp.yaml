@@ -92,9 +92,6 @@ payload:
       - DOMAIN-SUFFIX,static.hdrezka.ac
       - DOMAIN-SUFFIX,static.lostfilm.top
       - DOMAIN-SUFFIX,static.rutracker.cc
-      - DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
-      - DOMAIN-SUFFIX,tmdb.org
-      - DOMAIN-SUFFIX,themoviedb.org
       - DOMAIN-SUFFIX,thepiratebay.org
       - DOMAIN-SUFFIX,torrent.by
       - DOMAIN-SUFFIX,torrentgalaxy.to
