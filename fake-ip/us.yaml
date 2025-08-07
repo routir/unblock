@@ -1,5 +1,4 @@
 payload:
-# Sex.com
   - DOMAIN-SUFFIX,sex.com,PROXY-US
   - DOMAIN-SUFFIX,sxccdn.com,PROXY-US
   - DOMAIN-SUFFIX,sx.cdn.live,PROXY-US
