@@ -378,3 +378,6 @@ payload:
       - DOMAIN-SUFFIX,riper.online
       - DOMAIN-SUFFIX,riper.am
       - DOMAIN-SUFFIX,epg.lampa.stream
+      - DOMAIN-SUFFIX,viber.com
+      - DOMAIN-SUFFIX,rakuten.com
+      - DOMAIN-SUFFIX,amazonaws.com
