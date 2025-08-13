@@ -1,6 +1,6 @@
 payload:
       - DOMAIN-SUFFIX,1337x.to
-      - DOMAIN-SUFFIX,acdcdn.com
+      - DOMAIN,acdcdn.com
       - DOMAIN-SUFFIX,dyncdn.cc
       - DOMAIN-SUFFIX,ashdi.vip
       - DOMAIN-SUFFIX,bitru.org
