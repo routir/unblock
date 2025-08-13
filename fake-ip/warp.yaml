@@ -2,6 +2,7 @@ payload:
       - DOMAIN-SUFFIX,1337x.to
       - DOMAIN,acdcdn.com
       - DOMAIN-SUFFIX,dyncdn.cc
+      - DOMAIN-SUFFIX,cdn.piczend.com
       - DOMAIN-SUFFIX,ashdi.vip
       - DOMAIN-SUFFIX,bitru.org
       - DOMAIN-SUFFIX,bt.t-ru.org
