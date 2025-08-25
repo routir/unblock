@@ -372,7 +372,9 @@ payload:
       - DOMAIN-SUFFIX,proxy.fetchcors.workers.dev
       - DOMAIN-SUFFIX,postimages.org
       - DOMAIN-SUFFIX,postimgs.org
+      - DOMAIN-SUFFIX,postimg.cc
       - DOMAIN-SUFFIX,fastpic.org
+      - DOMAIN-SUFFIX,i.ibb.co
       - DOMAIN-SUFFIX,check-host.net
       - DOMAIN-SUFFIX,podkop.net
       - DOMAIN-SUFFIX,shields.io
