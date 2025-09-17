@@ -378,7 +378,7 @@ payload:
       - DOMAIN-SUFFIX,check-host.net
       - DOMAIN-SUFFIX,podkop.net
       - DOMAIN-SUFFIX,shields.io
-      - DOMAIN-SUFFIX,admuspeh.my
+#      - DOMAIN-SUFFIX,admuspeh.my
       - DOMAIN-SUFFIX,pcradio.ru
       - DOMAIN-SUFFIX,riper.online
       - DOMAIN-SUFFIX,riper.am
