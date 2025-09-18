@@ -90,4 +90,5 @@ payload:
    - DOMAIN-SUFFIX,tmdb-image-prod.b-cdn.net
    - DOMAIN-SUFFIX,tmdb.org
    - DOMAIN-SUFFIX,themoviedb.org
-   - DOMAIN-SUFFIX,cudy.com
+   - DOMAIN-SUFFIX,cudy.coм
+   - DOMAIN-SUFFIX,xtar.cc
