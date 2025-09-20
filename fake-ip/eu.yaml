@@ -17,6 +17,7 @@ payload:
    - DOMAIN-SUFFIX,adobe.com
    - DOMAIN-SUFFIX,adobe.io
    - DOMAIN-SUFFIX,reve.art
+   - DOMAIN,reve.com
    - DOMAIN-SUFFIX,app.reve.com
    - DOMAIN-SUFFIX,huggingface.co
    - DOMAIN-SUFFIX,artificialanalysis.ai
