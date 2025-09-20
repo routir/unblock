@@ -120,7 +120,7 @@ payload:
       - DOMAIN-SUFFIX,forum.ru-board.com
       - DOMAIN-SUFFIX,itdog.info
       - DOMAIN-SUFFIX,mullvad.net
-#      - DOMAIN-SUFFIX,ntc.party
+      - DOMAIN-SUFFIX,ntc.party
       - DOMAIN-SUFFIX,onlinesim.io
       - DOMAIN-SUFFIX,onlinesim.ru
       - DOMAIN-SUFFIX,prostovpn.org
@@ -201,6 +201,7 @@ payload:
       - DOMAIN-SUFFIX,cbilling.eu
       - DOMAIN-SUFFIX,cbilling.vip
       - DOMAIN-SUFFIX,forumtv.org
+      - DOMAIN-SUFFIX,forumtv.site
       - DOMAIN-SUFFIX,ilook.tv
       - DOMAIN-SUFFIX,ip-tv.club
       - DOMAIN-SUFFIX,iptv.online
