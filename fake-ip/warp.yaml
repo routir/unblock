@@ -201,7 +201,6 @@ payload:
       - DOMAIN-SUFFIX,cbilling.eu
       - DOMAIN-SUFFIX,cbilling.vip
       - DOMAIN-SUFFIX,forumtv.org
-      - DOMAIN-SUFFIX,forumtv.site
       - DOMAIN-SUFFIX,ilook.tv
       - DOMAIN-SUFFIX,ip-tv.club
       - DOMAIN-SUFFIX,iptv.online
