@@ -23,6 +23,10 @@ payload:
       - DOMAIN-SUFFIX,selectel.ru
       - DOMAIN-SUFFIX,mango-office.ru
       #TIKTOK unblock
+      - DOMAIN-SUFFIX,byteoversea.com
+      - DOMAIN-SUFFIX,ibytedtos.com
+      - DOMAIN-SUFFIX,muscdn.com
+      - DOMAIN-SUFFIX,musical.ly
       - DOMAIN-SUFFIX,tik-tokapi.com
       - DOMAIN-SUFFIX,tiktok.com
       - DOMAIN-SUFFIX,tiktokcdn-eu.com
