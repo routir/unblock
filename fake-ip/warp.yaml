@@ -77,6 +77,8 @@ payload:
       - DOMAIN-SUFFIX,rezka.ag
       - DOMAIN-SUFFIX,rezka.my
       - DOMAIN-SUFFIX,rezkify.com
+      - DOMAIN-SUFFIX,riper.am
+      - DOMAIN-SUFFIX,riper.online
       - DOMAIN-SUFFIX,riperam.org
       - DOMAIN-SUFFIX,rustorka.com
       - DOMAIN-SUFFIX,rutor.info
@@ -115,6 +117,7 @@ payload:
       - DOMAIN-SUFFIX,amnezia.org
       - DOMAIN-SUFFIX,antizapret.prostovpn.org
       - DOMAIN-SUFFIX,censortracker.org
+      - DOMAIN-SUFFIX,check-host.net
       - DOMAIN-SUFFIX,discours.io
       - DOMAIN-SUFFIX,dpidetector.org
       - DOMAIN-SUFFIX,exler.ru
@@ -171,6 +174,16 @@ payload:
       - DOMAIN-SUFFIX,xnxx.com
       - DOMAIN-SUFFIX,xv-ru.com
       - DOMAIN-SUFFIX,xvideos.com
+      - DOMAIN-SUFFIX,hardgif.com
+      - DOMAIN-SUFFIX,camonster.io
+      - DOMAIN-SUFFIX,cdn.rawgit.com
+      - DOMAIN-SUFFIX,cdn.jsdelivr.net
+      - DOMAIN-SUFFIX,cdnjs.cloudflare.com
+      - DOMAIN-SUFFIX,redd.it
+      - DOMAIN-SUFFIX,doppiocdn.net
+      - DOMAIN-SUFFIX,xvideos-cdn.com
+      - DOMAIN-SUFFIX,xnxx-cdn.com
+      - DOMAIN-SUFFIX,xhcdn.com
       #ANIME
       - DOMAIN-SUFFIX,anilibria.tv
       - DOMAIN-SUFFIX,animejoy.site
@@ -206,10 +219,12 @@ payload:
       - DOMAIN-SUFFIX,cardshare.cc
       - DOMAIN-SUFFIX,cbilling.eu
       - DOMAIN-SUFFIX,cbilling.vip
+      - DOMAIN-SUFFIX,epg.lampa.stream
       - DOMAIN-SUFFIX,forumtv.org
       - DOMAIN-SUFFIX,ilook.tv
       - DOMAIN-SUFFIX,ip-tv.club
       - DOMAIN-SUFFIX,iptv.online
+      - DOMAIN-SUFFIX,iptvx.one
       - DOMAIN-SUFFIX,lightiptv.cc
       - DOMAIN-SUFFIX,ottclub.cc
       - DOMAIN-SUFFIX,shara.club
@@ -233,13 +248,18 @@ payload:
       - DOMAIN-SUFFIX,theaudiodb.com
       #ФОТО
       - DOMAIN-SUFFIX,dk-s.ru
+      - DOMAIN-SUFFIX,fastpic.org
       - DOMAIN-SUFFIX,freeimages.com
+      - DOMAIN-SUFFIX,i.ibb.co
       - DOMAIN-SUFFIX,imageup.ru
       - DOMAIN-SUFFIX,imgbb.com
       - DOMAIN-SUFFIX,kartinko.org
       - DOMAIN-SUFFIX,lamcdn.net
       - DOMAIN-SUFFIX,lostpix.com
       - DOMAIN-SUFFIX,pexels.com
+      - DOMAIN-SUFFIX,postimg.cc
+      - DOMAIN-SUFFIX,postimgs.org
+      - DOMAIN-SUFFIX,postimages.org
       - DOMAIN-SUFFIX,prnt.sc
       - DOMAIN-SUFFIX,remove.bg
       - DOMAIN-SUFFIX,simgbb.com
@@ -352,17 +372,6 @@ payload:
       - DOMAIN-SUFFIX,vine.co
       - DOMAIN-SUFFIX,x.com
       #OTHER
-      - DOMAIN-SUFFIX,hardgif.com
-      - DOMAIN-SUFFIX,camonster.io
-      - DOMAIN-SUFFIX,cdn.rawgit.com
-      - DOMAIN-SUFFIX,cdn.jsdelivr.net
-      - DOMAIN-SUFFIX,cdnjs.cloudflare.com
-      - DOMAIN-SUFFIX,redd.it
-      - DOMAIN-SUFFIX,doppiocdn.net
-      - DOMAIN-SUFFIX,xvideos-cdn.com
-      - DOMAIN-SUFFIX,xnxx-cdn.com
-      - DOMAIN-SUFFIX,xhcdn.com
-      - DOMAIN-SUFFIX,iptvx.one
       - DOMAIN-SUFFIX,nnkpsm.cc
       - DOMAIN-SUFFIX,videoseed.tv
       - DOMAIN-SUFFIX,obrut.show
@@ -381,19 +390,10 @@ payload:
       - DOMAIN-SUFFIX,fnserials.net
       - DOMAIN-SUFFIX,kinotochka.co
       - DOMAIN-SUFFIX,proxy.fetchcors.workers.dev
-      - DOMAIN-SUFFIX,postimages.org
-      - DOMAIN-SUFFIX,postimgs.org
-      - DOMAIN-SUFFIX,postimg.cc
-      - DOMAIN-SUFFIX,fastpic.org
-      - DOMAIN-SUFFIX,i.ibb.co
-      - DOMAIN-SUFFIX,check-host.net
       - DOMAIN-SUFFIX,podkop.net
       - DOMAIN-SUFFIX,shields.io
-      - DOMAIN-SUFFIX,admuspeh.my
+#      - DOMAIN-SUFFIX,admuspeh.my
       - DOMAIN-SUFFIX,pcradio.ru
-      - DOMAIN-SUFFIX,riper.online
-      - DOMAIN-SUFFIX,riper.am
-      - DOMAIN-SUFFIX,epg.lampa.stream
       - DOMAIN-SUFFIX,viber.com
       - DOMAIN-SUFFIX,rakuten.com
       - DOMAIN-SUFFIX,amazonaws.com
