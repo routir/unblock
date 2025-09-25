@@ -1,4 +1,5 @@
 payload:
+      #КИНОТЕАТРЫ-ТОРРЕНТЫ
       - DOMAIN-SUFFIX,1337x.to
       - DOMAIN,acdcdn.com
       - DOMAIN-SUFFIX,dyncdn.cc
@@ -109,6 +110,7 @@ payload:
       - DOMAIN-SUFFIX,vkino.lafa.site
       - DOMAIN-SUFFIX,zet-flix.online
       - DOMAIN-SUFFIX,zetflix.online
+      #VPN-ФОРУМЫ
       - DOMAIN-SUFFIX,adguard.com
       - DOMAIN-SUFFIX,amnezia.org
       - DOMAIN-SUFFIX,antizapret.prostovpn.org
@@ -143,6 +145,7 @@ payload:
       - DOMAIN-SUFFIX,vpnpay.io
       - DOMAIN-SUFFIX,watchguard.com
       - DOMAIN-SUFFIX,zerolab.net
+      #PORN
       - DOMAIN-SUFFIX,chaturbate.com
       - DOMAIN-SUFFIX,eroticbeauties.net
       - DOMAIN-SUFFIX,fuqqt.com
@@ -168,6 +171,7 @@ payload:
       - DOMAIN-SUFFIX,xnxx.com
       - DOMAIN-SUFFIX,xv-ru.com
       - DOMAIN-SUFFIX,xvideos.com
+      #ANIME
       - DOMAIN-SUFFIX,anilibria.tv
       - DOMAIN-SUFFIX,animejoy.site
       - DOMAIN-SUFFIX,danbooru.donmai.us
@@ -186,6 +190,7 @@ payload:
       - DOMAIN-SUFFIX,vndb.org
       - DOMAIN-SUFFIX,vrv.co
       - DOMAIN-SUFFIX,webtoons.com
+      #3DModeling
       - DOMAIN-SUFFIX,3d-load.net
       - DOMAIN-SUFFIX,attachments.f95zone.to
       - DOMAIN-SUFFIX,blinkshot.io
@@ -196,6 +201,7 @@ payload:
       - DOMAIN-SUFFIX,render-state.to
       - DOMAIN-SUFFIX,slushe.com
       - DOMAIN-SUFFIX,wp.com
+      #IPTV
       - DOMAIN-SUFFIX,1cent.tv
       - DOMAIN-SUFFIX,cardshare.cc
       - DOMAIN-SUFFIX,cbilling.eu
@@ -208,6 +214,7 @@ payload:
       - DOMAIN-SUFFIX,ottclub.cc
       - DOMAIN-SUFFIX,shara.club
       - DOMAIN-SUFFIX,vipdrive.net
+      #КНИГИ
       - DOMAIN-SUFFIX,abook-club.ru
       - DOMAIN-SUFFIX,babook.org
       - DOMAIN-SUFFIX,booktracker.org
@@ -219,10 +226,12 @@ payload:
       - DOMAIN-SUFFIX,librusec.org
       - DOMAIN-SUFFIX,librusec.pro
       - DOMAIN-SUFFIX,proxy.flibusta.net
+      #МУЗЫКА
       - DOMAIN-SUFFIX,amdm.ru
       - DOMAIN-SUFFIX,deezer.com
       - DOMAIN-SUFFIX,soundcloud.com
       - DOMAIN-SUFFIX,theaudiodb.com
+      #ФОТО
       - DOMAIN-SUFFIX,dk-s.ru
       - DOMAIN-SUFFIX,freeimages.com
       - DOMAIN-SUFFIX,imageup.ru
@@ -234,6 +243,7 @@ payload:
       - DOMAIN-SUFFIX,prnt.sc
       - DOMAIN-SUFFIX,remove.bg
       - DOMAIN-SUFFIX,simgbb.com
+      #GAMES
       - DOMAIN-SUFFIX,boosteroid.com
       - DOMAIN-SUFFIX,chess.com
       - DOMAIN-SUFFIX,clashofclans.com
@@ -242,11 +252,13 @@ payload:
       - DOMAIN-SUFFIX,riotpixels.com
       - DOMAIN-SUFFIX,supercell.com
       - DOMAIN-SUFFIX,wiki.fextralife.com
+      #ПОЧТА
       - DOMAIN-SUFFIX,10minutemail.com
       - DOMAIN-SUFFIX,api.protonmail.ch
       - DOMAIN-SUFFIX,mail-api.proton.me
       - DOMAIN-SUFFIX,mailfence.com
       - DOMAIN-SUFFIX,tutanota.com
+      #СОФТ-ХАРД
       - DOMAIN-SUFFIX,banana-pi.org
       - DOMAIN-SUFFIX,bosch-home.com
       - DOMAIN-SUFFIX,cpu-monkey.com
@@ -255,24 +267,30 @@ payload:
       - DOMAIN-SUFFIX,macvendors.com
       - DOMAIN-SUFFIX,magicmodapk.com
       - DOMAIN-SUFFIX,telemetr.io
+      #EDGE
       - DOMAIN-SUFFIX,dual-a-0001.a-msedge.net
       - DOMAIN-SUFFIX,edge.microsoft.com
       - DOMAIN-SUFFIX,edgeservices.bing.com
       - DOMAIN-SUFFIX,news.google.com
+      #ОБЛАКА-ХРАНИЛИЩА
       - DOMAIN-SUFFIX,fex.net
       - DOMAIN-SUFFIX,quickconnect.to
       - DOMAIN-SUFFIX,ufile.io
+      #РАБОТА-ОБУЧЕНИЕ
       - DOMAIN-SUFFIX,linkedin.com
       - DOMAIN-SUFFIX,static.licdn.com
       - DOMAIN-SUFFIX,skladchik.com
       - DOMAIN-SUFFIX,skladchiki.pro
+      #NOTION
       - DOMAIN-SUFFIX,notion-static.com
       - DOMAIN-SUFFIX,notion.com
       - DOMAIN-SUFFIX,notion.new
       - DOMAIN-SUFFIX,notion.site
       - DOMAIN-SUFFIX,notion.so
       - DOMAIN-SUFFIX,notionusercontent.com
+      #COUB
       - DOMAIN-SUFFIX,coub.com
+      #DISCORD
       - DOMAIN-SUFFIX,dis.gd
       - DOMAIN-SUFFIX,discord-activities.com
       - DOMAIN-SUFFIX,discord.co
@@ -295,6 +313,7 @@ payload:
       - DOMAIN-SUFFIX,discordpartygames.com
       - DOMAIN-SUFFIX,discordsays.com
       - DOMAIN-SUFFIX,discordstatus.com
+      #FACEBOOK
       - DOMAIN-SUFFIX,facebook.com
       - DOMAIN-SUFFIX,facebook.net
       - DOMAIN-SUFFIX,fb.com
@@ -302,12 +321,14 @@ payload:
       - DOMAIN-SUFFIX,fbsbx.com
       - DOMAIN-SUFFIX,internalfb.com
       - DOMAIN-SUFFIX,oculus.com
+      #INSTAGRAM
       - DOMAIN-SUFFIX,cdninstagram.com
       - DOMAIN-SUFFIX,ig.me
       - DOMAIN-SUFFIX,instagr.am
       - DOMAIN-SUFFIX,instagram.com
       - DOMAIN-SUFFIX,thedise.me
       - DOMAIN-SUFFIX,threads.net
+      #TWITTER
       - DOMAIN-SUFFIX,ads-twitter.com
       - DOMAIN-SUFFIX,periscope.tv
       - DOMAIN-SUFFIX,pscp.tv
@@ -330,17 +351,7 @@ payload:
       - DOMAIN-SUFFIX,twvid.com
       - DOMAIN-SUFFIX,vine.co
       - DOMAIN-SUFFIX,x.com
-      - DOMAIN-SUFFIX,tik-tokapi.com
-      - DOMAIN-SUFFIX,tiktok.com
-      - DOMAIN-SUFFIX,tiktokcdn-eu.com
-      - DOMAIN-SUFFIX,tiktokcdn-us.com
-      - DOMAIN-SUFFIX,tiktokcdn.com
-      - DOMAIN-SUFFIX,tiktokd.net
-      - DOMAIN-SUFFIX,tiktokd.org
-      - DOMAIN-SUFFIX,tiktokv.com
-      - DOMAIN-SUFFIX,tiktokv.us
-      - DOMAIN-SUFFIX,tiktokw.us
-      - DOMAIN-SUFFIX,ttwstatic.com
+      #OTHER
       - DOMAIN-SUFFIX,hardgif.com
       - DOMAIN-SUFFIX,camonster.io
       - DOMAIN-SUFFIX,cdn.rawgit.com
