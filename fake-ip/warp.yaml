@@ -128,6 +128,7 @@ payload:
       - DOMAIN-SUFFIX,ntc.party
       - DOMAIN-SUFFIX,onlinesim.io
       - DOMAIN-SUFFIX,onlinesim.ru
+      - DOMAIN-SUFFIX,podkop.net
       - DOMAIN-SUFFIX,prostovpn.org
       - DOMAIN-SUFFIX,proton.me
       - DOMAIN-SUFFIX,protonmail.com
@@ -371,30 +372,29 @@ payload:
       - DOMAIN-SUFFIX,twvid.com
       - DOMAIN-SUFFIX,vine.co
       - DOMAIN-SUFFIX,x.com
-      #OTHER
-      - DOMAIN-SUFFIX,nnkpsm.cc
-      - DOMAIN-SUFFIX,videoseed.tv
-      - DOMAIN-SUFFIX,obrut.show
-      - DOMAIN-SUFFIX,cloud.obrut.stream
-      - DOMAIN-SUFFIX,utorrentfilmi.fun
-      - DOMAIN-SUFFIX,jacred.moviecorn.one
-      - DOMAIN-SUFFIX,seasonvar.one
-      - DOMAIN-SUFFIX,videohead.tech
-      - DOMAIN-SUFFIX,dvir.ru
-      - DOMAIN-SUFFIX,fancdn.net
-      - DOMAIN-SUFFIX,zombie-film.live
-      - DOMAIN-SUFFIX,bt4gprx.com
-      - DOMAIN-SUFFIX,my.ultradox.fun
-      - DOMAIN-SUFFIX,vibix.org
-      - DOMAIN-SUFFIX,fanserial.tv
-      - DOMAIN-SUFFIX,fnserials.net
-      - DOMAIN-SUFFIX,kinotochka.co
-      - DOMAIN-SUFFIX,proxy.fetchcors.workers.dev
-      - DOMAIN-SUFFIX,podkop.net
-      - DOMAIN-SUFFIX,shields.io
-#      - DOMAIN-SUFFIX,admuspeh.my
-      - DOMAIN-SUFFIX,pcradio.ru
+      #Viber
       - DOMAIN-SUFFIX,viber.com
       - DOMAIN-SUFFIX,rakuten.com
       - DOMAIN-SUFFIX,amazonaws.com
       - DOMAIN,api.mixpanel.com
+      #OTHER
+      - DOMAIN-SUFFIX,bt4gprx.com
+      - DOMAIN-SUFFIX,cloud.obrut.stream
+      - DOMAIN-SUFFIX,fancdn.net
+      - DOMAIN-SUFFIX,fanserial.tv
+      - DOMAIN-SUFFIX,fnserials.net
+      - DOMAIN-SUFFIX,jacred.moviecorn.one
+      - DOMAIN-SUFFIX,kinotochka.co
+      - DOMAIN-SUFFIX,my.ultradox.fun
+      - DOMAIN-SUFFIX,nnkpsm.cc
+      - DOMAIN-SUFFIX,obrut.show
+      - DOMAIN-SUFFIX,pcradio.ru
+      - DOMAIN-SUFFIX,proxy.fetchcors.workers.dev
+      - DOMAIN-SUFFIX,seasonvar.one
+      - DOMAIN-SUFFIX,shields.io
+      - DOMAIN-SUFFIX,utorrentfilmi.fun
+      - DOMAIN-SUFFIX,vibix.org
+      - DOMAIN-SUFFIX,videohead.tech
+      - DOMAIN-SUFFIX,videoseed.tv
+      - DOMAIN-SUFFIX,zombie-film.live
+#      - DOMAIN-SUFFIX,admuspeh.my
