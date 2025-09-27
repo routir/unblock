@@ -182,6 +182,7 @@ payload:
       - DOMAIN-SUFFIX,cdnjs.cloudflare.com
       - DOMAIN-SUFFIX,redd.it
       - DOMAIN-SUFFIX,doppiocdn.net
+      - DOMAIN-SUFFIX,xgroovy.com
       - DOMAIN-SUFFIX,xvideos-cdn.com
       - DOMAIN-SUFFIX,xnxx-cdn.com
       - DOMAIN-SUFFIX,xhcdn.com
