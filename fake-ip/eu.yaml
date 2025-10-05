@@ -73,7 +73,7 @@ payload:
    - DOMAIN-SUFFIX,cloudflarestatus.com
    - DOMAIN-SUFFIX,cloudflare-dns.com
    - DOMAIN-SUFFIX,cloudflare-ech.com
-   - DOMAIN,cudy.coм
+   - DOMAIN-SUFFIX,cudy.com
    - DOMAIN-SUFFIX,developer.android.com
    - DOMAIN-SUFFIX,developers.google.com
    - DOMAIN-SUFFIX,ebay.com
