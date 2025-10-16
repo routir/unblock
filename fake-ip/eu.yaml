@@ -70,6 +70,7 @@ payload:
    - DOMAIN-SUFFIX,4pda.to
    - DOMAIN-SUFFIX,4pda.ws
    - DOMAIN-SUFFIX,acestreamsearch.net
+   - DOMAIN-SUFFIX,cdn.mp3vizor.com
    - DOMAIN-SUFFIX,cloudflarestatus.com
    - DOMAIN-SUFFIX,cloudflare-dns.com
    - DOMAIN-SUFFIX,cloudflare-ech.com
