@@ -38,5 +38,3 @@ payload:
       - DOMAIN-SUFFIX,tiktokv.us
       - DOMAIN-SUFFIX,tiktokw.us
       - DOMAIN-SUFFIX,ttwstatic.com
-      #Telegram test
-      - DOMAIN-SUFFIX,web.telegram.org
