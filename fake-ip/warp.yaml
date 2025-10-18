@@ -251,6 +251,7 @@ payload:
       #ФОТО
       - DOMAIN-SUFFIX,dk-s.ru
       - DOMAIN-SUFFIX,fastpic.org
+      - DOMAIN-SUFFIX,fastpic.ru
       - DOMAIN-SUFFIX,freeimages.com
       - DOMAIN-SUFFIX,i.ibb.co
       - DOMAIN-SUFFIX,imageup.ru
@@ -258,6 +259,7 @@ payload:
       - DOMAIN-SUFFIX,kartinko.org
       - DOMAIN-SUFFIX,lamcdn.net
       - DOMAIN-SUFFIX,lostpix.com
+      - DOMAIN-SUFFIX,lostpic.net
       - DOMAIN-SUFFIX,pexels.com
       - DOMAIN-SUFFIX,postimg.cc
       - DOMAIN-SUFFIX,postimgs.org
