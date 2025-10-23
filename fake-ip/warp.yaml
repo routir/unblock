@@ -400,5 +400,6 @@ payload:
       - DOMAIN-SUFFIX,videohead.tech
       - DOMAIN-SUFFIX,videoseed.tv
       - DOMAIN-SUFFIX,zombie-film.live
+      - DOMAIN-SUFFIX,cloud-proxy-hls.revma.ihrhls.com
 #      - DOMAIN-SUFFIX,admuspeh.my
 #      - DOMAIN-SUFFIX,web.telegram.org
