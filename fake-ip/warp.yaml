@@ -198,6 +198,7 @@ payload:
       - DOMAIN-SUFFIX,mangadex.org
       - DOMAIN-SUFFIX,mangahub.ru
       - DOMAIN-SUFFIX,mangapark.net
+      - DOMAIN-SUFFIX,myanimelist.net
       - DOMAIN-SUFFIX,porncomicsus.com
       - DOMAIN-SUFFIX,rf.dobrochan.net
       - DOMAIN-SUFFIX,rule34.art
@@ -402,4 +403,3 @@ payload:
       - DOMAIN-SUFFIX,zombie-film.live
       - DOMAIN-SUFFIX,cloud-proxy-hls.revma.ihrhls.com
       - DOMAIN-SUFFIX,admuspeh.my
-#      - DOMAIN-SUFFIX,web.telegram.org
