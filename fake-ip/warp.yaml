@@ -389,10 +389,12 @@ payload:
       - DOMAIN-SUFFIX,jacred.moviecorn.one
       - DOMAIN-SUFFIX,kinotochka.co
       - DOMAIN-SUFFIX,my.ultradox.fun
+      - DOMAIN-SUFFIX,mytuner.mobi
       - DOMAIN-SUFFIX,mytuner-radio.com
       - DOMAIN-SUFFIX,nnkpsm.cc
       - DOMAIN-SUFFIX,obrut.show
       - DOMAIN-SUFFIX,pcradio.ru
+      - DOMAIN-SUFFIX,pcradio.biz
       - DOMAIN-SUFFIX,proxy.fetchcors.workers.dev
       - DOMAIN-SUFFIX,seasonvar.one
       - DOMAIN-SUFFIX,shields.io
