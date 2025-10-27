@@ -255,6 +255,7 @@ payload:
       - DOMAIN-SUFFIX,fastpic.ru
       - DOMAIN-SUFFIX,freeimages.com
       - DOMAIN-SUFFIX,i.ibb.co
+      - DOMAIN-SUFFIX,i.ibb.co.com
       - DOMAIN-SUFFIX,imageup.ru
       - DOMAIN-SUFFIX,imgbb.com
       - DOMAIN-SUFFIX,kartinko.org
