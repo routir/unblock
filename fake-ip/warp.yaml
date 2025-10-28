@@ -70,6 +70,7 @@ payload:
       - DOMAIN-SUFFIX,nnmclub.to
       - DOMAIN-SUFFIX,nnmstatic.win
       - DOMAIN-SUFFIX,open.selezen.org
+      - DOMAIN-SUFFIX,openbittorrent.com
       - DOMAIN-SUFFIX,pb.wtf
       - DOMAIN-SUFFIX,piratbit.top
       - DOMAIN-SUFFIX,piratebay.live
@@ -417,3 +418,5 @@ payload:
       - DOMAIN-SUFFIX,bcumedia.pro
       - DOMAIN-SUFFIX,bcumedia.su
       - DOMAIN-SUFFIX,epg.one
+      # acestream
+      - DOMAIN-SUFFIX,tracker.coppersurfer.tk
