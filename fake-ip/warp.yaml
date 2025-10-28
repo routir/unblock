@@ -406,6 +406,7 @@ payload:
       - DOMAIN-SUFFIX,videohead.tech
       - DOMAIN-SUFFIX,videoseed.tv
       - DOMAIN-SUFFIX,zombie-film.live
+      #временные пока блоки CDN
       - DOMAIN-SUFFIX,cloud-proxy-hls.revma.ihrhls.com
       - DOMAIN-SUFFIX,admuspeh.my
       - DOMAIN-SUFFIX,firepic.org
@@ -413,4 +414,6 @@ payload:
       - DOMAIN-SUFFIX,blockedin.org
       - DOMAIN-SUFFIX,radikal.host
       - DOMAIN-SUFFIX,grokipedia.com
-      - DOMAIN-SUFFIX,epg.bcumedia.pro
+      - DOMAIN-SUFFIX,bcumedia.pro
+      - DOMAIN-SUFFIX,bcumedia.su
+      - DOMAIN-SUFFIX,epg.one
