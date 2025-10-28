@@ -41,3 +41,4 @@ payload:
       # acestream
       - DOMAIN-SUFFIX,tracker.coppersurfer.tk
       - DOMAIN-SUFFIX,9.rarbg.me
+      - DOMAIN-SUFFIX,t1.torrentstream.org
