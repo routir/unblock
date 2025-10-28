@@ -38,3 +38,6 @@ payload:
       - DOMAIN-SUFFIX,tiktokv.us
       - DOMAIN-SUFFIX,tiktokw.us
       - DOMAIN-SUFFIX,ttwstatic.com
+      # Acestream test
+      - DOMAIN-SUFFIX,tracker.coppersurfer.tk
+      - DOMAIN-SUFFIX,rarbg.me
