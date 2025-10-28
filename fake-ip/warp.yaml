@@ -418,6 +418,3 @@ payload:
       - DOMAIN-SUFFIX,bcumedia.pro
       - DOMAIN-SUFFIX,bcumedia.su
       - DOMAIN-SUFFIX,epg.one
-      # acestream
-      - DOMAIN-SUFFIX,tracker.coppersurfer.tk
-      - DOMAIN-SUFFIX,rarbg.me
