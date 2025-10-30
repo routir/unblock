@@ -420,3 +420,6 @@ payload:
       - DOMAIN-SUFFIX,epg.one
       - DOMAIN-SUFFIX,epg.iptvx.one
       - DOMAIN-SUFFIX,cdn.lordicon.com
+      - DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
+      - DOMAIN-SUFFIX,prod-streaming-video-msn-com.akamaized.net
+      - DOMAIN-SUFFIX,api.btloader.com
