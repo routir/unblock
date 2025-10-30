@@ -419,7 +419,9 @@ payload:
       - DOMAIN-SUFFIX,bcumedia.su
       - DOMAIN-SUFFIX,epg.one
       - DOMAIN-SUFFIX,epg.iptvx.one
+      #Torrserver WEB UI
       - DOMAIN-SUFFIX,cdn.lordicon.com
+      #BING MSN
       - DOMAIN-SUFFIX,img-s-msn-com.akamaized.net
       - DOMAIN-SUFFIX,prod-streaming-video-msn-com.akamaized.net
-      - DOMAIN-SUFFIX,api.btloader.com
+      - DOMAIN-SUFFIX,dmcdn.net
