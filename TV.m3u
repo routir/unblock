@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Izvestia",Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
