@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Izvestia",Известия
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 tvg-id="NTS" http-user-agent="WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer",НТС
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
