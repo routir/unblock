@@ -38,6 +38,21 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="NTS" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",НТС
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+
+#EXTINF:-1, Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+#EXTINF:-1, Россия К
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1, Россия 1
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+
+#EXTINF:-1, VIP Premiere
+https://minsk-cache07t.voka.tv/live/6001-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1, VIP Megahit
+https://minsk-cache07t.voka.tv/live/6002-req_offset_28000000-req_window_0-1k_v5.m3u8
+#EXTINF:-1, VIP Comedy
+https://minsk-cache07t.voka.tv/live/6003-req_offset_28000000-req_window_0-1k_v5.m3u8
+
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Animal Planet HD
 http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Viju+ Planet
