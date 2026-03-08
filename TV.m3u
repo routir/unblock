@@ -5,7 +5,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1 group-title="Wink" tvg-id="Che" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Че!
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Wink" tvg-id="Friday" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница!
+#EXTINF:-1 group-title="Wink" tvg-id="Friday" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Пятница
 #EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
 #EXTINF:-1 group-title="Wink" tvg-id="NTV" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТВ
@@ -38,10 +38,3 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="NTS" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",НТС
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
-#EXTINF:-1 group-title="Wink" tvg-id="nts-sevastopol" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",НТС
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTSHD/variant.m3u8
-
-#EXTINF:-1 group-title="Wink" tvg-id="stv-sevastopol" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer" ,СТВ
-#EXTVLCOPT:http-user-agent=WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STVHD/variant.m3u8
