@@ -66,6 +66,13 @@ https://minsk-cache07t.voka.tv/live/6002-req_offset_28000000-req_window_0-1k_v5.
 #EXTINF:-1 group-title="Vokatv",VIP Comedy
 https://minsk-cache07t.voka.tv/live/6003-req_offset_28000000-req_window_0-1k_v5.m3u8
 
+#EXTINF:-1 group-title="Бегет",VIP Megahit
+https://telluri.ru/video/vj/6002.m3u8
+#EXTINF:-1 group-title="Бегет",VIP Premiere
+https://telluri.ru/video/vj/6001.m3u8
+#EXTINF:-1 group-title="Бегет",VIP Comedy
+https://telluri.ru/video/vj/6003.m3u8
+
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Animal Planet HD
 http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Viju+ Planet
