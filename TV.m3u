@@ -39,18 +39,31 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="NTS" http-user-agent="WINK/1.44.1 (AndroidTV/9) HlsWinkPlayer",НТС
 https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 
-#EXTINF:-1, Россия 24
+#EXTINF:-1 group-title="Vgtrk",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
-#EXTINF:-1, Россия К
+#EXTINF:-1 group-title="Vgtrk",Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
-#EXTINF:-1, Россия 1
+#EXTINF:-1 group-title="Vgtrk",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1, VIP Premiere
+#EXTINF:-1 group-title="Tavrida",Первый канал
+http://tv.ttk.mx:9000
+#EXTINF:-1 group-title="Tavrida",Россия 1
+http://tv.ttk.mx:9001
+#EXTINF:-1 group-title="Tavrida",НТВ
+http://tv.ttk.mx:9003
+#EXTINF:-1 group-title="Tavrida",Первый HD
+http://tv.ttk.mx:9093
+#EXTINF:-1 group-title="Tavrida",Россия-1 HD
+http://tv.ttk.mx:9075
+#EXTINF:-1 group-title="Tavrida",НТВ HD
+http://tv.ttk.mx:9127
+
+#EXTINF:-1 group-title="Vokatv",VIP Premiere
 https://minsk-cache07t.voka.tv/live/6001-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1, VIP Megahit
+#EXTINF:-1 group-title="Vokatv",VIP Megahit
 https://minsk-cache07t.voka.tv/live/6002-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1, VIP Comedy
+#EXTINF:-1 group-title="Vokatv",VIP Comedy
 https://minsk-cache07t.voka.tv/live/6003-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Animal Planet HD
