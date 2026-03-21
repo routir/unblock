@@ -54,6 +54,8 @@ http://tv.ttk.mx:9015
 http://tv.ttk.mx:9003
 #EXTINF:-1 group-title="Tavrida",НТВ HD
 http://tv.ttk.mx:9127
+#EXTINF:-1 group-title="Tavrida",РЕН ТВ
+http://tv.ttk.mx:9010
 #EXTINF:-1 group-title="Tavrida",СТС
 http://tv.ttk.mx:9012
 #EXTINF:-1 group-title="Tavrida",ТНТ
