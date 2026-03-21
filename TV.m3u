@@ -46,18 +46,32 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1 group-title="📺 Vgtrk",Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 
-#EXTINF:-1 group-title="Tavrida",Первый канал
-http://tv.ttk.mx:9000
-#EXTINF:-1 group-title="Tavrida",Россия 1
-http://tv.ttk.mx:9001
+#EXTINF:-1 group-title="Tavrida",Че!
+http://tv.ttk.mx:9141
+#EXTINF:-1 group-title="Tavrida",Пятница
+http://tv.ttk.mx:9015
 #EXTINF:-1 group-title="Tavrida",НТВ
 http://tv.ttk.mx:9003
-#EXTINF:-1 group-title="Tavrida",Первый HD
-http://tv.ttk.mx:9093
-#EXTINF:-1 group-title="Tavrida",Россия 1 HD
-http://tv.ttk.mx:9075
 #EXTINF:-1 group-title="Tavrida",НТВ HD
 http://tv.ttk.mx:9127
+#EXTINF:-1 group-title="Tavrida",СТС
+http://tv.ttk.mx:9012
+#EXTINF:-1 group-title="Tavrida",ТНТ
+http://tv.ttk.mx:9018
+#EXTINF:-1 group-title="Tavrida",ТНТ HD
+http://tv.ttk.mx:9128
+#EXTINF:-1 group-title="Tavrida",ТНТ4
+http://tv.ttk.mx:9098
+#EXTINF:-1 group-title="Tavrida",Первый канал
+http://tv.ttk.mx:9000
+#EXTINF:-1 group-title="Tavrida",Первый HD
+http://tv.ttk.mx:9093
+#EXTINF:-1 group-title="Tavrida",Россия 1
+http://tv.ttk.mx:9001
+#EXTINF:-1 group-title="Tavrida",Россия 1 HD
+http://tv.ttk.mx:9075
+#EXTINF:-1 group-title="Tavrida",Россия 24
+http://tv.ttk.mx:9006
 
 #EXTINF:-1 group-title="↕️ Торрент ТВ ↕️",Animal Planet HD
 http://127.0.0.1:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
